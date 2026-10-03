@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="410" viewBox="0 0 720 410" role="img" aria-labelledby="title desc"><title id="title">Koncentrált erő: két irány</title><desc id="desc">Saját ábra a füzet 7. oldalának látható rajza alapján. A bizonytalanságokat felirat jelöli.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Koncentrált erő: két irány</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<line x1="55" y1="258" x2="320" y2="258" stroke="#243746" stroke-width="2.5"/>
+<line x1="187" y1="125" x2="187" y2="258" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<text x="205" y="169" font-family="Arial, sans-serif" font-size="22" fill="#c43d42">F [kN]</text>
+<text x="92" y="303" font-family="Arial, sans-serif" font-size="19" fill="#243746">Merőleges erő</text>
+<line x1="380" y1="258" x2="665" y2="258" stroke="#243746" stroke-width="2.5"/>
+<line x1="480" y1="128" x2="555" y2="258" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<text x="551" y="155" font-family="Arial, sans-serif" font-size="22" fill="#c43d42">F [kN]</text>
+<path d="M515 258 A40 40 0 0 1 535 224" stroke="#2869b0" stroke-width="2.5" fill="none"/>
+<text x="487" y="232" font-family="Arial, sans-serif" font-size="18" fill="#2869b0">60°</text>
+<text x="388" y="303" font-family="Arial, sans-serif" font-size="19" fill="#243746">Ferde erő</text>
+<text x="390" y="331" font-family="Arial, sans-serif" font-size="16" fill="#243746">Példa: pontszerű rögzítés</text>
+</svg>

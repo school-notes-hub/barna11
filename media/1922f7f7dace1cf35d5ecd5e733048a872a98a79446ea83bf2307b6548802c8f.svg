@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1000" viewBox="0 0 720 1000" role="img" aria-labelledby="title desc"><title id="title">Szabad és akadályozott hőtágulás</title><desc id="desc">Azonos kiinduló hosszú rúd egyenletes melegítése, pozitív hőtágulási együtthatóval. Egyik végén rögzítve, másik végén szabadon hosszabbodik. Két merev támasz közt az egyenes rúd hossza változatlan, nyomófeszültség keletkezik.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="context-stroke"/></marker></defs>
+<rect width="720" height="1000" rx="16" fill="#fffdf8"/><g font-family="DejaVu Sans, sans-serif" fill="#243747">
+<text x="360" y="45" font-size="32" font-weight="700" text-anchor="middle" fill="#243747">Hőtágulás: számít a rögzítés</text>
+<text x="360" y="83" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">Melegítés: ΔT &gt; 0; az anyagra α &gt; 0.</text>
+<rect x="28" y="110" width="664" height="377" rx="8" fill="#f3f6f8" stroke="#d5dfe5" stroke-width="2"/>
+<text x="55" y="150" font-size="28" font-weight="700" text-anchor="start" fill="#243747">1. Jobb vége szabadon elmozdulhat</text>
+<text x="55" y="194" font-size="25" font-weight="400" text-anchor="start" fill="#243747">Melegítés előtt</text>
+<rect x="120" y="209" width="40" height="65" rx="0" fill="#8698a5" stroke="none" stroke-width="2"/>
+<rect x="160" y="223" width="400" height="37" rx="0" fill="#a9cee5" stroke="#196c9c" stroke-width="2"/>
+<text x="360" y="250" font-size="25" font-weight="700" text-anchor="middle" fill="#243747">L₀</text>
+<text x="55" y="305" font-size="25" font-weight="400" text-anchor="start" fill="#243747">Melegítés után</text>
+<rect x="120" y="320" width="40" height="65" rx="0" fill="#8698a5" stroke="none" stroke-width="2"/>
+<rect x="160" y="334" width="440" height="37" rx="0" fill="#f0b39b" stroke="#b74d2f" stroke-width="2"/>
+<path d="M560 208 L560 416" fill="none" stroke="#62788a" stroke-width="2" stroke-dasharray="7 6"/>
+<path d="M600 374 L600 416" fill="none" stroke="#62788a" stroke-width="2"/>
+<path d="M560 402 L600 402" fill="none" stroke="#b74d2f" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="620" y="410" font-size="26" font-weight="700" text-anchor="start" fill="#b74d2f">ΔL</text>
+<text x="360" y="463" font-size="27" font-weight="700" text-anchor="middle" fill="#243747">Hosszabb lesz: ΔL = α · L₀ · ΔT.</text>
+<rect x="28" y="510" width="664" height="365" rx="8" fill="#f3f6f8" stroke="#d5dfe5" stroke-width="2"/>
+<text x="55" y="550" font-size="28" font-weight="700" text-anchor="start" fill="#243747">2. Mindkét vége mereven rögzített</text>
+<text x="55" y="594" font-size="25" font-weight="400" text-anchor="start" fill="#243747">Melegítés előtt</text>
+<rect x="120" y="609" width="40" height="65" rx="0" fill="#8698a5" stroke="none" stroke-width="2"/>
+<rect x="560" y="609" width="40" height="65" rx="0" fill="#8698a5" stroke="none" stroke-width="2"/>
+<rect x="160" y="623" width="400" height="37" rx="0" fill="#a9cee5" stroke="#196c9c" stroke-width="2"/>
+<rect x="120" y="723" width="40" height="65" rx="0" fill="#8698a5" stroke="none" stroke-width="2"/>
+<rect x="560" y="723" width="40" height="65" rx="0" fill="#8698a5" stroke="none" stroke-width="2"/>
+<rect x="160" y="737" width="400" height="37" rx="0" fill="#f0b39b" stroke="#b74d2f" stroke-width="2"/>
+<text x="360" y="650" font-size="25" font-weight="700" text-anchor="middle" fill="#243747">L₀</text>
+<text x="55" y="705" font-size="25" font-weight="400" text-anchor="start" fill="#243747">Melegítés után</text>
+<path d="M170 755 L258 755" fill="none" stroke="#b74d2f" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M550 755 L462 755" fill="none" stroke="#b74d2f" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="360" y="764" font-size="25" font-weight="700" text-anchor="middle" fill="#243747">L₀</text>
+<text x="360" y="820" font-size="26" font-weight="700" text-anchor="middle" fill="#243747">A támaszok nyomóereje akadályozza</text>
+<text x="360" y="854" font-size="26" font-weight="700" text-anchor="middle" fill="#243747">a tágulást: nyomófeszültség ébred.</text>
+<text x="360" y="917" font-size="24" font-weight="400" text-anchor="middle" fill="#243747">Egyenletes melegítés; egyenes maradó rúd.</text>
+<text x="360" y="951" font-size="24" font-weight="400" text-anchor="middle" fill="#243747">A szabad hosszváltozás a rajzon nagyított.</text>
+<text x="360" y="983" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">A nyilak a rúdra ható támaszerőket mutatják.</text>
+</g></svg>

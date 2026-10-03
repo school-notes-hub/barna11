@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="880" viewBox="0 0 720 880" role="img" aria-labelledby="title desc"><title id="title">Víztartalom és vízfelvétel</title><desc id="desc">Ugyanazon minta száraz tömege 100 gramm. Nedvesen 110 gramm, az előírt telítési eljárás után 120 gramm. Saját példa: 10 százalék víztartalom és 20 százalék vízfelvétel, mindkettő száraz tömegre vetítve.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="context-stroke"/></marker></defs>
+<rect width="720" height="880" rx="16" fill="#fffdf8"/><g font-family="DejaVu Sans, sans-serif" fill="#243747">
+<text x="360" y="46" font-size="32" font-weight="700" text-anchor="middle" fill="#243747">Víztartalom vagy vízfelvétel?</text>
+<text x="360" y="84" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">Ugyanaz a minta • saját számpélda</text>
+<rect x="52" y="110" width="26" height="23" rx="8" fill="#cbd5dc" stroke="none" stroke-width="2"/>
+<text x="91" y="130" font-size="24" font-weight="400" text-anchor="start" fill="#243747">Száraz anyag</text>
+<rect x="383" y="110" width="26" height="23" rx="8" fill="#81c7ee" stroke="none" stroke-width="2"/>
+<text x="422" y="130" font-size="24" font-weight="400" text-anchor="start" fill="#243747">Víz tömege</text>
+<text x="52" y="185" font-size="28" font-weight="700" text-anchor="start" fill="#243747">Száraz állapot: 100 g</text>
+<rect x="80" y="203" width="400" height="48" rx="0" fill="#cbd5dc" stroke="#243747" stroke-width="2"/>
+<text x="280" y="236" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">100 g száraz anyag</text>
+<text x="52" y="315" font-size="28" font-weight="700" text-anchor="start" fill="#243747">Nedves állapot: 110 g</text>
+<rect x="80" y="333" width="400" height="48" rx="0" fill="#cbd5dc" stroke="#243747" stroke-width="2"/>
+<rect x="480" y="333" width="40" height="48" rx="0" fill="#81c7ee" stroke="#196c9c" stroke-width="2"/>
+<text x="540" y="366" font-size="24" font-weight="700" text-anchor="start" fill="#243747">10 g</text>
+<text x="280" y="366" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">100 g száraz anyag</text>
+<text x="52" y="445" font-size="28" font-weight="700" text-anchor="start" fill="#243747">Előírt telítés után: 120 g</text>
+<rect x="80" y="463" width="400" height="48" rx="0" fill="#cbd5dc" stroke="#243747" stroke-width="2"/>
+<rect x="480" y="463" width="80" height="48" rx="0" fill="#81c7ee" stroke="#196c9c" stroke-width="2"/>
+<text x="580" y="496" font-size="24" font-weight="700" text-anchor="start" fill="#243747">20 g</text>
+<text x="280" y="496" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">100 g száraz anyag</text>
+<rect x="32" y="553" width="656" height="267" rx="8" fill="#edf5f8" stroke="none" stroke-width="2"/>
+<text x="56" y="596" font-size="26" font-weight="700" text-anchor="start" fill="#243747">Víztartalom: a pillanatnyi víztömeg</text>
+<text x="56" y="636" font-size="27" font-weight="400" text-anchor="start" fill="#243747">W = (110 − 100) / 100 × 100% = 10%</text>
+<text x="56" y="690" font-size="26" font-weight="700" text-anchor="start" fill="#243747">Vízfelvétel: a telítéskor felvett víz</text>
+<text x="56" y="730" font-size="27" font-weight="400" text-anchor="start" fill="#243747">Wf = (120 − 100) / 100 × 100% = 20%</text>
+<text x="360" y="785" font-size="26" font-weight="700" text-anchor="middle" fill="#243747">A nevező mindkétszer a száraz 100 g.</text>
+<text x="360" y="854" font-size="24" font-weight="400" text-anchor="middle" fill="#243747">A sávok tömeget mutatnak, nem pórustérfogatot.</text>
+</g></svg>

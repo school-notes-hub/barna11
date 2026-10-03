@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="890" viewBox="0 0 720 890" role="img" aria-labelledby="title desc"><title id="title">Mészoltás és mészégetés: merre áramlik a hő?</title><desc id="desc">Mészoltás: kalcium-oxid és víz egyesül, kalcium-hidroxid keletkezik, hő távozik a környezetbe. Mészégetés: kalcium-karbonátból kalcium-oxid és szén-dioxid keletkezik, külső hőközlés szükséges. Nem egymás megfordításai.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="context-stroke"/></marker></defs>
+<rect width="720" height="890" rx="16" fill="#fffdf8"/><g font-family="DejaVu Sans, sans-serif" fill="#243747">
+<text x="360" y="45" font-size="33" font-weight="700" text-anchor="middle" fill="#243747">Mészoltás és mészégetés</text>
+<text x="360" y="83" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">A vörös nyíl a hőátadás irányát jelzi.</text>
+<rect x="28" y="110" width="664" height="329" rx="8" fill="#f3f6f8" stroke="#d5dfe5" stroke-width="2"/>
+<text x="55" y="153" font-size="29" font-weight="700" text-anchor="start" fill="#243747">Mészoltás • egyesülés</text>
+<rect x="52" y="177" width="616" height="111" rx="8" fill="#ffffff" stroke="#a0b2be" stroke-width="2"/>
+<text x="360" y="222" font-size="35" font-weight="700" text-anchor="middle" fill="#243747">CaO + H₂O → Ca(OH)₂</text>
+<text x="360" y="261" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">égetett mész + víz → oltott mész</text>
+<rect x="110" y="369" width="500" height="46" rx="8" fill="#f9dfd2" stroke="none" stroke-width="2"/>
+<text x="360" y="401" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">Környezet</text>
+<path d="M170 297 L170 359" fill="none" stroke="#b74d2f" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="207" y="321" font-size="28" font-weight="700" text-anchor="start" fill="#b74d2f">Hőt ad le</text>
+<text x="207" y="353" font-size="23" font-weight="400" text-anchor="start" fill="#b74d2f">EXOTERM</text>
+<rect x="28" y="462" width="664" height="329" rx="8" fill="#f3f6f8" stroke="#d5dfe5" stroke-width="2"/>
+<text x="55" y="505" font-size="29" font-weight="700" text-anchor="start" fill="#243747">Mészégetés • bomlás</text>
+<rect x="52" y="529" width="616" height="111" rx="8" fill="#ffffff" stroke="#a0b2be" stroke-width="2"/>
+<text x="360" y="574" font-size="35" font-weight="700" text-anchor="middle" fill="#243747">CaCO₃ → CaO + CO₂</text>
+<text x="360" y="613" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">mészkő → égetett mész + szén-dioxid</text>
+<rect x="110" y="721" width="500" height="46" rx="8" fill="#f9dfd2" stroke="none" stroke-width="2"/>
+<text x="360" y="753" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">Külső hőforrás (pl. kemence)</text>
+<path d="M170 711 L170 649" fill="none" stroke="#b74d2f" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="207" y="673" font-size="28" font-weight="700" text-anchor="start" fill="#b74d2f">Hőt vesz fel</text>
+<text x="207" y="705" font-size="23" font-weight="400" text-anchor="start" fill="#b74d2f">ENDOTERM</text>
+<text x="360" y="830" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">Két külön reakció, eltérő kiindulási anyagokkal.</text>
+<text x="360" y="867" font-size="25" font-weight="400" text-anchor="middle" fill="#243747">A mészégetéshez tartós hőközlés kell.</text>
+</g></svg>

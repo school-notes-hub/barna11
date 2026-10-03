@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="510" viewBox="0 0 720 510" role="img" aria-labelledby="title desc"><title id="title">Tangensből számolt komponens</title><desc id="desc">Saját ábra a füzet 15. oldalának látható rajza alapján. A javított előjeles komponens és a nagyság megkülönböztetve.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Tangensből számolt komponens</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<line x1="465" y1="300" x2="150" y2="300" stroke="#243746" stroke-width="2.5" marker-end="url(#ink)"/>
+<line x1="465" y1="300" x2="465" y2="118.245" stroke="#243746" stroke-width="2.5" marker-end="url(#ink)"/>
+<line x1="465" y1="300" x2="150" y2="118.245" stroke="#c43d42" stroke-width="3.5" marker-end="url(#force)"/>
+<text x="291" y="325" font-family="Arial, sans-serif" font-size="23" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">x</tspan></text>
+<text x="481" y="211" font-family="Arial, sans-serif" font-size="23" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">y</tspan></text>
+<text x="297" y="195" font-family="Arial, sans-serif" font-size="24" fill="#c43d42">F</text>
+<text x="46" y="368" font-family="Arial, sans-serif" font-size="20" fill="#243746">tg α = 0,577; F<tspan baseline-shift="sub" font-size="70%">x</tspan> = −21,4 kN</text>
+<text x="46" y="407" font-family="Arial, sans-serif" font-size="19" fill="#243746">Javítás (nem a füzetből): F<tspan baseline-shift="sub" font-size="70%">y</tspan> ≈ −12,35 kN.</text>
+<text x="46" y="444" font-family="Arial, sans-serif" font-size="17" fill="#243746">Nagysága 12,35 kN; az y tengely lefelé pozitív.</text>
+<text x="46" y="478" font-family="Arial, sans-serif" font-size="17" fill="#243746">A füzetben: 12,35 / 12,34 kN.</text>
+</svg>

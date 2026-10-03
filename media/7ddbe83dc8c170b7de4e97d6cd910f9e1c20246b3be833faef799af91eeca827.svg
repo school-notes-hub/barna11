@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1030" viewBox="0 0 720 1030" role="img" aria-labelledby="title desc"><title id="title">Kötelek és megtámasztó rudak</title><desc id="desc">Saját ábra a füzet 14. oldalának látható rajza alapján. A 75 fokos szög és az egyenletes teher felezőpontja feloldva. Az A kötél kN-egysége és a B rúd 808,1 N erőnagysága a füzet számításából átvett adat; a felső adatsor hiányát a kísérőszöveg rögzíti.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Kötelek és megtámasztó rudak</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<text x="35" y="109" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">1. Gerenda két kötéllel</text>
+<path d="M185 285 H490 V310 H185 Z" stroke="#243746" stroke-width="2.5" fill="#e2edf3"/>
+<line x1="185" y1="285" x2="92" y2="192" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<line x1="490" y1="285" x2="548" y2="180" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<line x1="337" y1="297" x2="337" y2="387" stroke="#16816b" stroke-width="3" marker-end="url(#comp)"/>
+<text x="357" y="372" font-family="Arial, sans-serif" font-size="20" fill="#16816b">G = 10 kN</text>
+<text x="43" y="153" font-family="Arial, sans-serif" font-size="20" fill="#243746">A = 5,176 kN</text>
+<text x="451" y="150" font-family="Arial, sans-serif" font-size="20" fill="#243746">B = 7,319 kN</text>
+<line x1="185" y1="285" x2="92" y2="285" stroke="#2869b0" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="105" y="308" font-family="Arial, sans-serif" font-size="19" fill="#2869b0">A<tspan baseline-shift="sub" font-size="70%">x</tspan></text>
+<line x1="185" y1="285" x2="185" y2="195" stroke="#2869b0" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="197" y="210" font-family="Arial, sans-serif" font-size="19" fill="#2869b0">A<tspan baseline-shift="sub" font-size="70%">y</tspan></text>
+<line x1="490" y1="285" x2="575" y2="285" stroke="#2869b0" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="551" y="309" font-family="Arial, sans-serif" font-size="19" fill="#2869b0">B<tspan baseline-shift="sub" font-size="70%">x</tspan></text>
+<line x1="490" y1="285" x2="490" y2="194" stroke="#2869b0" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="457" y="215" font-family="Arial, sans-serif" font-size="19" fill="#2869b0">B<tspan baseline-shift="sub" font-size="70%">y</tspan></text>
+<text x="123" y="263" font-family="Arial, sans-serif" font-size="18" fill="#243746">45°</text>
+<text x="537" y="262" font-family="Arial, sans-serif" font-size="18" fill="#243746">60°</text>
+<text x="35" y="442" font-family="Arial, sans-serif" font-size="23" fill="#243746">2. Rudak és megoszló terhelés</text>
+<line x1="130" y1="468" x2="130" y2="950" stroke="#243746" stroke-width="4"/>
+<line x1="130" y1="480" x2="110" y2="496" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="500" x2="110" y2="516" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="520" x2="110" y2="536" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="540" x2="110" y2="556" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="560" x2="110" y2="576" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="580" x2="110" y2="596" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="600" x2="110" y2="616" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="620" x2="110" y2="636" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="640" x2="110" y2="656" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="660" x2="110" y2="676" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="680" x2="110" y2="696" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="700" x2="110" y2="716" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="720" x2="110" y2="736" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="740" x2="110" y2="756" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="760" x2="110" y2="776" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="780" x2="110" y2="796" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="800" x2="110" y2="816" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="820" x2="110" y2="836" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="840" x2="110" y2="856" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="860" x2="110" y2="876" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="880" x2="110" y2="896" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="900" x2="110" y2="916" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="920" x2="110" y2="936" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="940" x2="110" y2="956" stroke="#546b80" stroke-width="1.5"/>
+<line x1="130" y1="476.79491924311225" x2="430" y2="650" stroke="#243746" stroke-width="2.5" id="rod-a"/>
+<line x1="130" y1="950" x2="430" y2="650" stroke="#243746" stroke-width="2.5" id="rod-b"/>
+<circle cx="430" cy="650" r="5" fill="white" stroke="#243746" stroke-width="2"/>
+<text x="205" y="503" font-family="Arial, sans-serif" font-size="24" fill="#243746">A</text>
+<text x="172" y="886" font-family="Arial, sans-serif" font-size="24" fill="#243746">B</text>
+<text x="148" y="525" font-family="Arial, sans-serif" font-size="18" fill="#243746">60°</text>
+<text x="142" y="900" font-family="Arial, sans-serif" font-size="18" fill="#243746">45°</text>
+<path d="M391.029 627.5 A45 45 0 0 0 398.18 681.82" stroke="#2869b0" stroke-width="2" fill="none"/>
+<text x="307" y="657" font-family="Arial, sans-serif" font-size="18" fill="#2869b0">75°</text>
+<line x1="300" y1="574.945" x2="220" y2="528.757" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<line x1="300" y1="574.945" x2="215" y2="574.945" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="300" y1="574.945" x2="300" y2="504.945" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="212" y="600" font-family="Arial, sans-serif" font-size="18" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">Ax</tspan></text>
+<text x="312" y="526" font-family="Arial, sans-serif" font-size="18" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">Ay</tspan></text>
+<line x1="240" y1="840" x2="320" y2="760" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<line x1="240" y1="840" x2="330" y2="840" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="240" y1="840" x2="240" y2="750" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="286" y="866" font-family="Arial, sans-serif" font-size="18" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">Bx</tspan></text>
+<text x="195" y="783" font-family="Arial, sans-serif" font-size="18" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">By</tspan></text>
+<path d="M430 650 L410 715 H468 Z" stroke="#243746" stroke-width="2.5" fill="none"/>
+<line x1="410" y1="706" x2="468" y2="706" stroke="#c43d42" stroke-width="2.5"/>
+<line x1="412" y1="707" x2="412" y2="728" stroke="#c43d42" stroke-width="1.5" marker-end="url(#force)"/>
+<line x1="423" y1="707" x2="423" y2="728" stroke="#c43d42" stroke-width="1.5" marker-end="url(#force)"/>
+<line x1="434" y1="707" x2="434" y2="728" stroke="#c43d42" stroke-width="1.5" marker-end="url(#force)"/>
+<line x1="445" y1="707" x2="445" y2="728" stroke="#c43d42" stroke-width="1.5" marker-end="url(#force)"/>
+<line x1="456" y1="707" x2="456" y2="728" stroke="#c43d42" stroke-width="1.5" marker-end="url(#force)"/>
+<line x1="467" y1="707" x2="467" y2="728" stroke="#c43d42" stroke-width="1.5" marker-end="url(#force)"/>
+<line x1="410" y1="751" x2="468" y2="751" stroke="#546b80" stroke-width="2.5"/>
+<line x1="406" y1="757" x2="414" y2="745" stroke="#546b80" stroke-width="2.5"/>
+<line x1="464" y1="757" x2="472" y2="745" stroke="#546b80" stroke-width="2.5"/>
+<text x="424" y="779" font-family="Arial, sans-serif" font-size="18" fill="#243746">2 m</text>
+<text x="482" y="715" font-family="Arial, sans-serif" font-size="18" fill="#c43d42">q = 500 N/m</text>
+<line x1="130" y1="977" x2="430" y2="977" stroke="#546b80" stroke-width="2.5"/>
+<line x1="126" y1="983" x2="134" y2="971" stroke="#546b80" stroke-width="2.5"/>
+<line x1="426" y1="983" x2="434" y2="971" stroke="#546b80" stroke-width="2.5"/>
+<text x="267" y="1003" font-family="Arial, sans-serif" font-size="18" fill="#243746">4 m</text>
+<text x="462" y="505" font-family="Arial, sans-serif" font-size="19" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">A</tspan> = 659,8 N</text>
+<text x="462" y="537" font-family="Arial, sans-serif" font-size="17" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">B</tspan> = 808,1 N</text>
+<line x1="439" y1="751" x2="439" y2="735" stroke="#546b80" stroke-width="1.5"/>
+<text x="409" y="809" font-family="Arial, sans-serif" font-size="17" fill="#243746">1 m + 1 m</text>
+<text x="409" y="838" font-family="Arial, sans-serif" font-size="17" fill="#243746">Q a felezőpontban</text>
+</svg>

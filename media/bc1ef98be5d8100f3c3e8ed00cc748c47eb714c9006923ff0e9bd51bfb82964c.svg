@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" role="img" aria-labelledby="title desc"><title id="title">Felület mentén megoszló teher</title><desc id="desc">Saját ábra a füzet 9. oldalának látható rajza alapján. A jelölések feloldását és a kétféle g különbségét felirat jelöli.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Felület mentén megoszló teher</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<path d="M105 320 L255 185 L580 185 L430 320 Z" stroke="#243746" stroke-width="2.5" fill="#e2edf3"/>
+<path d="M105 320 v35 h325 v-35 M430 355 L580 220 V185" stroke="#243746" stroke-width="2.5" fill="none"/>
+<line x1="105" y1="260" x2="105" y2="320" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="180" y1="260" x2="180" y2="320" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="265" y1="260" x2="265" y2="320" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="350" y1="260" x2="350" y2="320" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="430" y1="260" x2="430" y2="320" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="255" y1="125" x2="255" y2="185" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="330" y1="125" x2="330" y2="185" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="415" y1="125" x2="415" y2="185" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="495" y1="125" x2="495" y2="185" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="580" y1="125" x2="580" y2="185" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="180" y1="193" x2="180" y2="253" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="505" y1="193" x2="505" y2="253" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<path d="M105 260 L255 125 H580 L430 260 Z" stroke="#c43d42" stroke-width="2.5" fill="none"/>
+<line x1="330" y1="198" x2="330" y2="288" stroke="#2869b0" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="350" y="110" font-family="Arial, sans-serif" font-size="21" fill="#2869b0">G = g · A</text>
+<text x="347" y="232" font-family="Arial, sans-serif" font-size="21" fill="#2869b0">G</text>
+<text x="280" y="282" font-family="Arial, sans-serif" font-size="22" fill="#243746">S</text>
+<text x="120" y="348" font-family="Arial, sans-serif" font-size="20" fill="#243746">m</text>
+<text x="80" y="403" font-family="Arial, sans-serif" font-size="20" fill="#243746">m · g = G: itt g gyorsulás [m/s²]</text>
+<text x="80" y="440" font-family="Arial, sans-serif" font-size="22" fill="#c43d42">g = G / A: felületi teher [kN/m²]</text>
+<text x="80" y="476" font-family="Arial, sans-serif" font-size="17" fill="#243746">S: súlypont; m: tömeg; A: terület.</text>
+<text x="80" y="510" font-family="Arial, sans-serif" font-size="17" fill="#c43d42">Javítás (nem a füzetből): az alsó g nem gyorsulás.</text>
+</svg>

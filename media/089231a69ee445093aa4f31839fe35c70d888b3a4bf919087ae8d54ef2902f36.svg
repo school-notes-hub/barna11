@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="890" viewBox="0 0 720 890" role="img" aria-labelledby="title desc"><title id="title">Vonal mentén megoszló terhek</title><desc id="desc">Saját ábra a füzet 7-9. oldalának látható rajza alapján. A bizonytalanságokat felirat jelöli.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Vonal mentén megoszló terhek</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<line x1="70" y1="245" x2="450" y2="245" stroke="#243746" stroke-width="2.5"/>
+<line x1="90" y1="155" x2="430" y2="155" stroke="#c43d42" stroke-width="2.5"/>
+<line x1="90.0" y1="155.0" x2="90.0" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="132.5" y1="155.0" x2="132.5" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="175.0" y1="155.0" x2="175.0" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="217.5" y1="155.0" x2="217.5" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="260.0" y1="155.0" x2="260.0" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="302.5" y1="155.0" x2="302.5" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="345.0" y1="155.0" x2="345.0" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="387.5" y1="155.0" x2="387.5" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="430.0" y1="155.0" x2="430.0" y2="245" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="90" y1="273" x2="430" y2="273" stroke="#546b80" stroke-width="2.5"/>
+<line x1="86" y1="279" x2="94" y2="267" stroke="#546b80" stroke-width="2.5"/>
+<line x1="426" y1="279" x2="434" y2="267" stroke="#546b80" stroke-width="2.5"/>
+<text x="248.0" y="299" font-family="Arial, sans-serif" font-size="18" fill="#243746">ℓ</text>
+<text x="45" y="110" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">1. Egyenletesen megoszló</text>
+<text x="450" y="177" font-family="Arial, sans-serif" font-size="19" fill="#c43d42">q [kN/m]</text>
+<line x1="260" y1="142" x2="260" y2="245" stroke="#16816b" stroke-width="3.5" marker-end="url(#comp)"/>
+<text x="274" y="215" font-family="Arial, sans-serif" font-size="22" fill="#16816b">Q</text>
+<text x="467" y="228" font-family="Arial, sans-serif" font-size="19" fill="#16816b">Q = q · ℓ</text>
+<line x1="70" y1="485" x2="450" y2="485" stroke="#243746" stroke-width="2.5"/>
+<line x1="90" y1="395" x2="430" y2="485" stroke="#c43d42" stroke-width="2.5"/>
+<line x1="90.0" y1="395.0" x2="90.0" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="132.5" y1="406.25" x2="132.5" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="175.0" y1="417.5" x2="175.0" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="217.5" y1="428.75" x2="217.5" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="260.0" y1="440.0" x2="260.0" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="302.5" y1="451.25" x2="302.5" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="345.0" y1="462.5" x2="345.0" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="387.5" y1="473.75" x2="387.5" y2="485" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="90" y1="513" x2="430" y2="513" stroke="#546b80" stroke-width="2.5"/>
+<line x1="86" y1="519" x2="94" y2="507" stroke="#546b80" stroke-width="2.5"/>
+<line x1="426" y1="519" x2="434" y2="507" stroke="#546b80" stroke-width="2.5"/>
+<text x="248.0" y="539" font-family="Arial, sans-serif" font-size="18" fill="#243746">ℓ</text>
+<text x="45" y="348" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">2. Háromszög alakú</text>
+<text x="450" y="410" font-family="Arial, sans-serif" font-size="19" fill="#c43d42">q [kN/m]</text>
+<text x="461" y="464" font-family="Arial, sans-serif" font-size="18" fill="#16816b">Q = q · ℓ / 2</text>
+<line x1="70" y1="725" x2="450" y2="725" stroke="#243746" stroke-width="2.5"/>
+<line x1="90" y1="635" x2="430" y2="685" stroke="#c43d42" stroke-width="2.5"/>
+<line x1="90.0" y1="635.0" x2="90.0" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="132.5" y1="641.25" x2="132.5" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="175.0" y1="647.5" x2="175.0" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="217.5" y1="653.75" x2="217.5" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="260.0" y1="660.0" x2="260.0" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="302.5" y1="666.25" x2="302.5" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="345.0" y1="672.5" x2="345.0" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="387.5" y1="678.75" x2="387.5" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="430.0" y1="685.0" x2="430.0" y2="725" stroke="#c43d42" stroke-width="1.7" marker-end="url(#force)"/>
+<line x1="90" y1="753" x2="430" y2="753" stroke="#546b80" stroke-width="2.5"/>
+<line x1="86" y1="759" x2="94" y2="747" stroke="#546b80" stroke-width="2.5"/>
+<line x1="426" y1="759" x2="434" y2="747" stroke="#546b80" stroke-width="2.5"/>
+<text x="248.0" y="779" font-family="Arial, sans-serif" font-size="18" fill="#243746">ℓ</text>
+<text x="45" y="592" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">3. Trapéz alakú</text>
+<text x="52" y="624" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">q<tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<text x="446" y="688" font-family="Arial, sans-serif" font-size="19" fill="#c43d42">q<tspan baseline-shift="sub" font-size="70%">2</tspan> [kN/m]</text>
+<text x="456" y="737" font-family="Arial, sans-serif" font-size="16" fill="#16816b">Q = (q<tspan baseline-shift="sub" font-size="70%">1</tspan> + q<tspan baseline-shift="sub" font-size="70%">2</tspan>) · ℓ / 2</text>
+<text x="45" y="825" font-family="Arial, sans-serif" font-size="17" fill="#243746">A háromszög eredőhelye a füzetben: 1/3 és 2/3 osztás.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="765" viewBox="0 0 720 765" role="img" aria-labelledby="title desc">
+<title id="title">A hatás és ellenhatás különböző testekre hat</title><desc id="desc">Két érintkező test, A balra és B jobbra. A B-t jobbra nyomja, B A-t balra nyomja; az erők nagysága azonos. Alul a két test külön, kizárólag e kölcsönhatáshoz tartozó erővel. Az ábra nem teljes szabadtestábra és nem állítja a testek egyensúlyát.</desc>
+<defs><marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 1 L9 5 L0 9" fill="none" stroke="context-stroke" stroke-width="1.6"/></marker></defs>
+<rect width="720" height="765" rx="18" fill="#f5f9fc"/>
+<text x="28" y="43" font-family="Arial, sans-serif" font-size="27" fill="#243746" font-weight="700">Hatás-ellenhatás: két külön test</text>
+<text x="28" y="81" font-family="Arial, sans-serif" font-size="21" fill="#243746">Az A test nyomja a B testet; B visszahat A-ra.</text>
+<rect x="220" y="145" width="210" height="112" rx="5" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<rect x="430" y="145" width="115" height="112" rx="5" fill="#e1eee8" stroke="#243746" stroke-width="2"/>
+<text x="289" y="184" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">A test</text>
+<text x="447" y="184" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">B test</text>
+<line x1="430" y1="218" x2="280" y2="218" stroke="#b62d3b" stroke-width="4" marker-end="url(#force)"/>
+<line x1="430" y1="218" x2="580" y2="218" stroke="#245c90" stroke-width="4" marker-end="url(#force)"/>
+<text x="195" y="291" font-family="Arial, sans-serif" font-size="20" fill="#b62d3b">B erőhatása A-ra</text>
+<text x="420" y="291" font-family="Arial, sans-serif" font-size="20" fill="#245c90">A erőhatása B-re</text>
+<text x="28" y="337" font-family="Arial, sans-serif" font-size="22" fill="#243746">Azonos nagyság, ellentétes értelem,</text>
+<text x="28" y="367" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">de az egyik erő A-ra, a másik B-re hat.</text>
+<line x1="28" y1="404" x2="692" y2="404" stroke="#bac9d2" stroke-width="1"/>
+<text x="28" y="449" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">A két testet külön vizsgálva</text>
+<rect x="130" y="495" width="120" height="86" rx="5" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<rect x="440" y="495" width="120" height="86" rx="5" fill="#e1eee8" stroke="#243746" stroke-width="2"/>
+<text x="171" y="532" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">A</text>
+<text x="482" y="532" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">B</text>
+<line x1="250" y1="554" x2="80" y2="554" stroke="#b62d3b" stroke-width="4" marker-end="url(#force)"/>
+<line x1="440" y1="554" x2="610" y2="554" stroke="#245c90" stroke-width="4" marker-end="url(#force)"/>
+<text x="67" y="616" font-family="Arial, sans-serif" font-size="21" fill="#b62d3b">A-ra ható erő</text>
+<text x="435" y="616" font-family="Arial, sans-serif" font-size="21" fill="#245c90">B-re ható erő</text>
+<text x="28" y="670" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">Ezek nem ugyanazon testet kiegyenlítő erők.</text>
+<text x="28" y="709" font-family="Arial, sans-serif" font-size="19" fill="#243746">Csak a két test közötti kölcsönhatás erőit</text>
+<text x="28" y="738" font-family="Arial, sans-serif" font-size="19" fill="#243746">ábrázoljuk; a többi erő itt nem szerepel.</text>
+</svg>

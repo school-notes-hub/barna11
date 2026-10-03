@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="850" viewBox="0 0 720 850" role="img" aria-labelledby="title desc">
+<title id="title">Egyvonalú ellentétes erők és erőpár</title><desc id="desc">Két eset ugyanazon merev testre. Felső panel: egy közös hatásvonalon egyenlő nagyságú ellentétes erők, nulla vektori összeg és nulla együttes nyomaték. Alsó panel: egymástól d pozitív távolságra lévő párhuzamos hatásvonalak, ugyanilyen erők, nulla vektori összeg és F szor d nagyságú nyomaték.</desc>
+<defs><marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 1 L9 5 L0 9" fill="none" stroke="context-stroke" stroke-width="1.6"/></marker></defs>
+<rect width="720" height="850" rx="18" fill="#f5f9fc"/>
+<text x="28" y="42" font-family="Arial, sans-serif" font-size="27" fill="#243746" font-weight="700">Kiegyenlítő erők vagy erőpár?</text>
+<text x="28" y="80" font-family="Arial, sans-serif" font-size="20" fill="#243746">Mindkét esetben ugyanarra a testre hat két erő.</text>
+<text x="28" y="110" font-family="Arial, sans-serif" font-size="20" fill="#243746">Az erők nagysága egyaránt F, értelmük ellentétes.</text>
+<text x="28" y="163" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">1. Közös hatásvonal</text>
+<rect x="230" y="192" width="260" height="116" rx="5" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<text x="330" y="295" font-family="Arial, sans-serif" font-size="20" fill="#243746">test</text>
+<line x1="80" y1="240" x2="640" y2="240" stroke="#526575" stroke-width="1.5" stroke-dasharray="8 6"/>
+<line x1="250" y1="240" x2="100" y2="240" stroke="#b62d3b" stroke-width="4" marker-end="url(#force)"/>
+<line x1="470" y1="240" x2="620" y2="240" stroke="#b62d3b" stroke-width="4" marker-end="url(#force)"/>
+<text x="145" y="220" font-family="Arial, sans-serif" font-size="25" fill="#b62d3b">F</text>
+<text x="552" y="220" font-family="Arial, sans-serif" font-size="25" fill="#b62d3b">F</text>
+<text x="28" y="358" font-family="Arial, sans-serif" font-size="22" fill="#243746">Az erők vektori összege: 0.</text>
+<text x="28" y="392" font-family="Arial, sans-serif" font-size="22" fill="#243746">E két erő együttes forgatónyomatéka: 0.</text>
+<line x1="28" y1="425" x2="692" y2="425" stroke="#bac9d2" stroke-width="1"/>
+<text x="28" y="471" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">2. Különböző, párhuzamos hatásvonalak</text>
+<rect x="230" y="515" width="260" height="150" rx="5" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<text x="330" y="601" font-family="Arial, sans-serif" font-size="20" fill="#243746">test</text>
+<line x1="80" y1="535" x2="640" y2="535" stroke="#526575" stroke-width="1.5" stroke-dasharray="8 6"/>
+<line x1="80" y1="645" x2="640" y2="645" stroke="#526575" stroke-width="1.5" stroke-dasharray="8 6"/>
+<line x1="470" y1="535" x2="620" y2="535" stroke="#b62d3b" stroke-width="4" marker-end="url(#force)"/>
+<line x1="250" y1="645" x2="100" y2="645" stroke="#b62d3b" stroke-width="4" marker-end="url(#force)"/>
+<text x="552" y="512" font-family="Arial, sans-serif" font-size="25" fill="#b62d3b">F</text>
+<text x="125" y="620" font-family="Arial, sans-serif" font-size="25" fill="#b62d3b">F</text>
+<line x1="175" y1="535" x2="175" y2="645" stroke="#087b68" stroke-width="3"/>
+<line x1="163" y1="535" x2="187" y2="535" stroke="#087b68" stroke-width="2"/>
+<line x1="163" y1="645" x2="187" y2="645" stroke="#087b68" stroke-width="2"/>
+<text x="144" y="598" font-family="Arial, sans-serif" font-size="24" fill="#087b68" font-weight="700">d</text>
+<text x="28" y="715" font-family="Arial, sans-serif" font-size="22" fill="#243746">Az erők vektori összege itt is 0,</text>
+<text x="28" y="745" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">de forgató hatás marad: ez az erőpár.</text>
+<text x="28" y="786" font-family="Arial, sans-serif" font-size="22" fill="#087b68" font-weight="700">A nyomaték nagysága: M = F · d.</text>
+<text x="28" y="823" font-family="Arial, sans-serif" font-size="20" fill="#243746">d: a két hatásvonal merőleges távolsága.</text>
+</svg>

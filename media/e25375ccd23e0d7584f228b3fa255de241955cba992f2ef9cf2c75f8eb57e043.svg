@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500" role="img" aria-labelledby="title desc"><title id="title">A csuklós kar forgató hatása</title><desc id="desc">Saját ábra a füzet 17. oldalának látható rajza alapján. A bizonytalanságokat felirat jelöli.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">A csuklós kar forgató hatása</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<path d="M168 321 l-30 38 h60 Z" stroke="#243746" stroke-width="2.5" fill="none"/>
+<line x1="126" y1="360" x2="210" y2="360" stroke="#243746" stroke-width="2.5"/>
+<line x1="128" y1="361" x2="120" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<line x1="138" y1="361" x2="130" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<line x1="148" y1="361" x2="140" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<line x1="158" y1="361" x2="150" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<line x1="168" y1="361" x2="160" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<line x1="178" y1="361" x2="170" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<line x1="188" y1="361" x2="180" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<line x1="198" y1="361" x2="190" y2="371" stroke="#546b80" stroke-width="1.4"/>
+<circle cx="168" cy="321" r="5" fill="white" stroke="#243746" stroke-width="2"/>
+<line x1="168" y1="321" x2="521" y2="192" stroke="#243746" stroke-width="4"/>
+<line x1="485" y1="99" x2="485" y2="199" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="503" y="140" font-family="Arial, sans-serif" font-size="25" fill="#c43d42">F</text>
+<line x1="168" y1="321" x2="560" y2="330" stroke="#546b80" stroke-width="2.5" stroke-dasharray="6 5"/>
+<path d="M530 197 Q598 255 556 323" stroke="#2869b0" stroke-width="2.5" fill="none" marker-end="url(#blue)"/>
+<text x="58" y="302" font-family="Arial, sans-serif" font-size="20" fill="#243746">Csukló</text>
+<text x="93" y="426" font-family="Arial, sans-serif" font-size="17" fill="#243746">A szaggatott helyzet és az ív az elfordulást szemlélteti.</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960" role="img" aria-labelledby="title desc"><title id="title">Két komponensfeladat</title><desc id="desc">Saját ábra a füzet 13. oldalának látható rajza alapján. Az adatsor és a mértékegység javítása külön jelölve.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Két komponensfeladat</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<text x="35" y="110" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">2. feladat: 26 kN</text>
+<line x1="95" y1="168" x2="603" y2="168" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="118" y1="135" x2="118" y2="405" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="160" y1="163" x2="160" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="202" y1="163" x2="202" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="244" y1="163" x2="244" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="286" y1="163" x2="286" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="328" y1="163" x2="328" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="370" y1="163" x2="370" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="412" y1="163" x2="412" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="454" y1="163" x2="454" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<line x1="496" y1="163" x2="496" y2="173" stroke="#546b80" stroke-width="1.2"/>
+<circle cx="454" cy="210" r="4" fill="white" stroke="#243746" stroke-width="2"/>
+<text x="460" y="201" font-family="Arial, sans-serif" font-size="18" fill="#243746">(8; 1)</text>
+<line x1="454" y1="210" x2="254" y2="326" stroke="#c43d42" stroke-width="3.5" marker-end="url(#force)"/>
+<line x1="454" y1="210" x2="254" y2="210" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="454" y1="210" x2="454" y2="326" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="313" y="195" font-family="Arial, sans-serif" font-size="20" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">x</tspan></text>
+<text x="470" y="280" font-family="Arial, sans-serif" font-size="19" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">y</tspan> = 13 kN</text>
+<text x="281" y="293" font-family="Arial, sans-serif" font-size="23" fill="#c43d42">F</text>
+<line x1="454" y1="210" x2="544" y2="210" stroke="#546b80" stroke-width="2.5" stroke-dasharray="6 5"/>
+<path d="M499 210 A45 45 0 0 1 415 233" stroke="#2869b0" stroke-width="2.5" fill="none"/>
+<text x="490" y="248" font-family="Arial, sans-serif" font-size="17" fill="#2869b0">150°</text>
+<text x="48" y="448" font-family="Arial, sans-serif" font-size="18" fill="#243746">Lépték: 1 cm ↔ 10 kN; a füzetben 2,6 cm.</text>
+<text x="35" y="530" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">3. feladat (a füzetben ismét 2.)</text>
+<line x1="95" y1="588" x2="603" y2="588" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="118" y1="555" x2="118" y2="825" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="160" y1="583" x2="160" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="202" y1="583" x2="202" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="244" y1="583" x2="244" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="286" y1="583" x2="286" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="328" y1="583" x2="328" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="370" y1="583" x2="370" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="412" y1="583" x2="412" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="454" y1="583" x2="454" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<line x1="496" y1="583" x2="496" y2="593" stroke="#546b80" stroke-width="1.2"/>
+<g transform="translate(-38 21)">
+<circle cx="450" cy="735" r="4" fill="white" stroke="#243746" stroke-width="2"/>
+<text x="500" y="755" font-family="Arial, sans-serif" font-size="18" fill="#243746">(7; 4)</text>
+<line x1="450" y1="735" x2="248" y2="668" stroke="#c43d42" stroke-width="3.5" marker-end="url(#force)"/>
+<line x1="450" y1="735" x2="248" y2="735" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="450" y1="735" x2="450" y2="668" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="319" y="764" font-family="Arial, sans-serif" font-size="18" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">x</tspan> balra</text>
+<text x="464" y="693" font-family="Arial, sans-serif" font-size="20" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">y</tspan></text>
+<text x="247" y="645" font-family="Arial, sans-serif" font-size="17" fill="#c43d42">F = 47,43</text>
+<path d="M488 735 A38 38 0 1 1 414 722" stroke="#2869b0" stroke-width="2.5" fill="none"/>
+<text x="503" y="802" font-family="Arial, sans-serif" font-size="17" fill="#2869b0">α = 198,43°</text>
+</g>
+<text x="44" y="853" font-family="Arial, sans-serif" font-size="18" fill="#243746">Javítás (nem a füzetből): F<tspan baseline-shift="sub" font-size="70%">x</tspan> = −45 N, nem 45 N.</text>
+<text x="44" y="886" font-family="Arial, sans-serif" font-size="18" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">y</tspan> = −15 N; lépték: 1 cm ↔ 15 N.</text>
+<g transform="translate(-38 21)">
+<line x1="248" y1="668" x2="248" y2="735" stroke="#546b80" stroke-width="1.5" stroke-dasharray="6 5"/>
+<path d="M276.46 677.44 A30 30 0 0 1 248 698" stroke="#2869b0" stroke-width="2" fill="none"/>
+<text x="205" y="707" font-family="Arial, sans-serif" font-size="17" fill="#2869b0">γ</text>
+</g>
+<text x="44" y="922" font-family="Arial, sans-serif" font-size="18" fill="#c43d42">Javítás (nem a füzetből): 3,16 cm, nem 3,16 m.</text>
+</svg>

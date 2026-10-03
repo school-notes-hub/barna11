@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470" role="img" aria-labelledby="title desc"><title id="title">Az erő irányának megadása</title><desc id="desc">Saját ábra a füzet 10. oldalának látható rajza alapján. Felfelé mutató függőleges tengely, két erőnyíl és szögívek; a füzet szögjele számszerű érték nélkül szerepel.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Az erő irányának megadása</text>
+<text x="28" y="66" font-family="Arial, sans-serif" font-size="16" fill="#546b80">Saját ábra</text>
+<line x1="115" y1="270" x2="430" y2="270" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="245" y1="360" x2="245" y2="112" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="155" y1="348" x2="360" y2="170" stroke="#2869b0" stroke-width="2.5" stroke-dasharray="6 5"/>
+<line x1="245" y1="270" x2="333" y2="194" stroke="#2869b0" stroke-width="2.5" marker-end="url(#blue)"/>
+<line x1="245" y1="270" x2="350" y2="345" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<text x="341" y="318" font-family="Arial, sans-serif" font-size="24" fill="#c43d42">F</text>
+<path d="M292 270 A47 47 0 0 1 283 298" stroke="#16816b" stroke-width="2.5" fill="none" marker-end="url(#comp)"/>
+<path d="M267 216 A59 59 0 1 0 288 316" stroke="#16816b" stroke-width="2.5" fill="none"/>
+<text x="460" y="172" font-family="Arial, sans-serif" font-size="20" fill="#243746">(x, y): két adat</text>
+<text x="460" y="214" font-family="Arial, sans-serif" font-size="20" fill="#243746">+ nagyság</text>
+<text x="460" y="256" font-family="Arial, sans-serif" font-size="20" fill="#243746">+ irányszög</text>
+<text x="55" y="406" font-family="Arial, sans-serif" font-size="17" fill="#243746">Ezen a vázlaton a függőleges tengely nyila felfelé mutat.</text>
+<text x="304" y="289" font-family="Arial, sans-serif" font-size="20" fill="#16816b">β</text>
+</svg>
