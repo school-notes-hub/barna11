@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+<rect width="900" height="280" rx="18" fill="#f7f3e9"/>
+<path d="M0 18Q0 0 18 0H20V280H18Q0 280 0 262Z" fill="#b5684e"/>
+<g fill="#183b46" font-family="DejaVu Sans,sans-serif">
+<text x="44" y="66" font-size="44" font-weight="bold">Forráselemzés és jegyzetelés</text>
+<text x="44" y="143" font-size="32">Kérdezd ki a forrást!</text>
+<text x="44" y="196" font-size="32">Jegyzetelj saját szavaiddal!</text>
+</g>
+<g stroke="#477781" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M652 101H743L765 123V226H652Z" fill="#fffdf7"/>
+<path d="M743 101V123H765" fill="none"/>
+<path d="M674 144H731M674 166H722M674 188H710" fill="none"/>
+<circle cx="748" cy="179" r="30" fill="#e2eff0" fill-opacity=".7" stroke="#183b46" stroke-width="6"/>
+<path d="M770 201L795 231" stroke="#183b46" stroke-width="11"/>
+<path d="M807 189L839 121L852 127L820 195L806 209Z" fill="#b5684e" stroke="#87503e"/>
+<path d="M806 209L807 189L820 195Z" fill="#ead5ac"/>
+</g></svg>
