@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title desc"><title id="title">Tangensből számolt komponens</title><desc id="desc">Lefelé pozitív y tengely mellett egy közös pontból balra mutató Fx és felfelé mutató Fy komponens, és a belőlük adódó, balra-felfelé mutató F erő; F és a balra mutató vízszintes között β ≈ 30°. Adatok: tg α = 0,577, Fx = −21,4 kN; eredmény: Fy ≈ −12,35 kN (felfelé), F ≈ 24,71 kN.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Tangensből számolt komponens</text>
+<line x1="465" y1="300" x2="150" y2="300" stroke="#243746" stroke-width="2.5" marker-end="url(#ink)"/>
+<line x1="465" y1="300" x2="465" y2="118.245" stroke="#243746" stroke-width="2.5" marker-end="url(#ink)"/>
+<line x1="465" y1="300" x2="150" y2="118.245" stroke="#c43d42" stroke-width="3.5" marker-end="url(#force)"/>
+<text x="291" y="325" font-family="Arial, sans-serif" font-size="23" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">x</tspan></text>
+<text x="481" y="211" font-family="Arial, sans-serif" font-size="23" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">y</tspan></text>
+<text x="297" y="195" font-family="Arial, sans-serif" font-size="24" fill="#c43d42">F</text>
+<text x="46" y="368" font-family="Arial, sans-serif" font-size="20" fill="#243746">tg α = 0,577; F<tspan baseline-shift="sub" font-size="70%">x</tspan> = −21,4 kN</text>
+<path d="M405 300 A60 60 0 0 1 413.04 270" stroke="#2869b0" stroke-width="2.5" fill="none"/>
+<text x="330" y="292" font-family="Arial, sans-serif" font-size="19" fill="#2869b0">β ≈ 30°</text>
+<text x="46" y="407" font-family="Arial, sans-serif" font-size="20" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">y</tspan> ≈ −12,35 kN (felfelé), F ≈ 24,71 kN</text>
+<text x="46" y="444" font-family="Arial, sans-serif" font-size="17" fill="#243746">Az y tengely lefelé pozitív, ezért a felfelé mutató F<tspan baseline-shift="sub" font-size="70%">y</tspan> negatív.</text>
+</svg>

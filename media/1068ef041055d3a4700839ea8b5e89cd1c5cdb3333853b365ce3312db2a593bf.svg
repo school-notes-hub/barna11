@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="900" viewBox="0 0 640 900" role="img" aria-labelledby="title"><title id="title">Három különböző hőterjedési mód, eltérő jelentésű nyilakkal</title><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="context-stroke"/></marker></defs><rect width="640" height="900" rx="12" fill="#fffdf8"/><g font-family="DejaVu Sans, sans-serif"><text x="25" y="36" font-size="23" text-anchor="start" fill="#263548">1. Hővezetés – energia továbbadása</text><rect x="70" y="85" width="500" height="48" rx="5" fill="#e6edf2" stroke="#8395a2"/><rect x="70" y="85" width="110" height="48" rx="5" fill="#f2b29b" stroke="#8395a2"/><rect x="460" y="85" width="110" height="48" rx="5" fill="#b7d4ed" stroke="#8395a2"/><text x="115" y="72" font-size="20" text-anchor="middle" fill="#263548">meleg</text><text x="515" y="72" font-size="20" text-anchor="middle" fill="#263548">hideg</text><path d="M210 109 L428 109" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><text x="320" y="170" font-size="21" text-anchor="middle" fill="#263548">A rúd anyaga nem áramlik végig.</text><text x="25" y="235" font-size="23" text-anchor="start" fill="#263548">2. Hőáramlás – levegő mozog</text><rect x="85" y="265" width="470" height="255" rx="5" fill="#edf3f6" stroke="#8395a2"/><rect x="105" y="390" width="48" height="90" rx="5" fill="#ecac91" stroke="#8395a2"/><text x="179" y="492" font-size="19" text-anchor="start" fill="#263548">fűtés</text><path d="M175 452 L175 305 L493 305 L493 458 L208 458" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><text x="220" y="290" font-size="20" text-anchor="start" fill="#263548">meleg levegő fent</text><text x="245" y="420" font-size="19" text-anchor="start" fill="#263548">lehűlés után vissza</text><text x="25" y="580" font-size="23" text-anchor="start" fill="#263548">3. Hősugárzás – energia érkezik</text>
+<rect x="230" y="608" width="345" height="16" fill="#cfd6dc" stroke="#8395a2"/>
+<rect x="230" y="770" width="345" height="16" fill="#cfd6dc" stroke="#8395a2"/>
+<rect x="250" y="624" width="310" height="146" fill="#edf3f6"/>
+<rect x="230" y="624" width="20" height="22" fill="#cfd6dc" stroke="#8395a2"/>
+<rect x="230" y="722" width="20" height="48" fill="#cfd6dc" stroke="#8395a2"/>
+<rect x="230" y="646" width="20" height="76" fill="#d6ecfa" stroke="#5c8fb5"/>
+<path d="M237 646 V722 M243 646 V722" stroke="#5c8fb5" stroke-width="1.5"/>
+<rect x="555" y="624" width="20" height="146" fill="#cfd6dc" stroke="#8395a2"/>
+<rect x="318" y="764" width="110" height="6" fill="#e7894f"/>
+<rect x="549" y="660" width="6" height="56" fill="#efb08a"/>
+<circle cx="88" cy="630" r="34" fill="#edbf53"/>
+<text x="88" y="690" font-size="21" text-anchor="middle" fill="#263548">Nap</text>
+<path d="M126 650 L370 762" stroke="#b64829" stroke-width="4" fill="none" marker-end="url(#a)"/>
+<path d="M378 764 L547 690" stroke="#b64829" stroke-width="2.5" stroke-dasharray="8 6" fill="none" marker-end="url(#a)"/>
+<text x="345" y="700" font-size="20" text-anchor="middle" fill="#263548">sugárzás</text>
+<path d="M200 748 L231 712" stroke="#5c8fb5" stroke-width="1.5"/>
+<text x="185" y="768" font-size="20" text-anchor="middle" fill="#263548">ablak</text>
+<text x="472" y="652" font-size="18" text-anchor="middle" fill="#5d6d7a">helyiség</text>
+<text x="373" y="810" font-size="19" text-anchor="middle" fill="#263548">padló</text>
+<text x="320" y="848" font-size="20" text-anchor="middle" fill="#263548">A sugárzás az ablaküvegen át a padlóra jut;</text>
+<text x="320" y="876" font-size="20" text-anchor="middle" fill="#263548">a padló és a falak elnyelik, és felmelegszenek.</text>
+</g></svg>

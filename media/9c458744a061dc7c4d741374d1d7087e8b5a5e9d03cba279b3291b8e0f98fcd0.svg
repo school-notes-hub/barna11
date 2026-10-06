@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1045" viewBox="0 0 720 1045" role="img" aria-labelledby="title desc"><title id="title">Nyílirányok és komponensek</title><desc id="desc">Lefelé pozitív y tengelyű koordináta-rendszer. Felül a négy alapirány: F1 jobbra-lefelé (+, +), F2 balra-lefelé (−, +), F3 balra-felfelé (−, −), F4 jobbra-felfelé (+, −), mindegyik vízszintes és függőleges komponensnyíllal. Alul gyakorló feladat: nyolc erő, F1 balra-felfelé, F2 vízszintesen jobbra, F3 jobbra-lefelé, F4 balra-lefelé, F5 jobbra-felfelé, F6 balra-felfelé, F7 jobbra-felfelé, F8 jobbra-lefelé; F2 kivételével komponensnyilakkal.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Nyílirányok és komponensek</text>
+<text x="30" y="110" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">A négy alapirány előjelei</text>
+<line x1="100" y1="277" x2="620" y2="277" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="355" y1="132" x2="355" y2="446" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<text x="626" y="284" font-family="Arial, sans-serif" font-size="19" fill="#243746">x</text>
+<text x="347" y="468" font-family="Arial, sans-serif" font-size="19" fill="#243746">y</text>
+<line x1="390" y1="315" x2="488" y2="395" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<line x1="390" y1="315" x2="488" y2="315" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="390" y1="315" x2="390" y2="395" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="443" y="420" font-family="Arial, sans-serif" font-size="18" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">1</tspan>: +, +</text>
+<line x1="310" y1="315" x2="212" y2="395" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<line x1="310" y1="315" x2="212" y2="315" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="310" y1="315" x2="310" y2="395" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="167" y="420" font-family="Arial, sans-serif" font-size="18" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">2</tspan>: −, +</text>
+<line x1="310" y1="242" x2="212" y2="162" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<line x1="310" y1="242" x2="212" y2="242" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="310" y1="242" x2="310" y2="162" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="167" y="147" font-family="Arial, sans-serif" font-size="18" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">3</tspan>: −, −</text>
+<line x1="390" y1="242" x2="488" y2="162" stroke="#c43d42" stroke-width="2.5" marker-end="url(#force)"/>
+<line x1="390" y1="242" x2="488" y2="242" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<line x1="390" y1="242" x2="390" y2="162" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="443" y="147" font-family="Arial, sans-serif" font-size="18" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">4</tspan>: +, −</text>
+<text x="30" y="530" font-family="Arial, sans-serif" font-size="22" fill="#243746" font-weight="700">Gyakorlat: nyolc erő</text>
+<line x1="80" y1="772" x2="646" y2="772" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="365" y1="590" x2="365" y2="1010" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<text x="650" y="776" font-family="Arial, sans-serif" font-size="19" fill="#243746">x</text>
+<text x="375" y="1020" font-family="Arial, sans-serif" font-size="19" fill="#243746">y</text>
+<line x1="485" y1="897" x2="418" y2="820" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="388" y="815" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<line x1="485" y1="897" x2="418" y2="897" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="485" y1="897" x2="485" y2="820" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="425" y1="985" x2="580" y2="985" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="588" y="1009" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<line x1="295" y1="850" x2="333" y2="965" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="341" y="989" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">3</tspan></text>
+<line x1="295" y1="850" x2="333" y2="850" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="295" y1="850" x2="295" y2="965" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="236" y1="815" x2="148" y2="896" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="118" y="920" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">4</tspan></text>
+<line x1="236" y1="815" x2="148" y2="815" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="236" y1="815" x2="236" y2="896" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="254" y1="735" x2="299" y2="627" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="307" y="622" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">5</tspan></text>
+<line x1="254" y1="735" x2="299" y2="735" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="254" y1="735" x2="254" y2="627" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="181" y1="688" x2="113" y2="615" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="83" y="610" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">6</tspan></text>
+<line x1="181" y1="688" x2="113" y2="688" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="181" y1="688" x2="181" y2="615" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="426" y1="676" x2="474" y2="596" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="482" y="591" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">7</tspan></text>
+<line x1="426" y1="676" x2="474" y2="676" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="426" y1="676" x2="426" y2="596" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="481" y1="718" x2="576" y2="759" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<text x="584" y="744" font-family="Arial, sans-serif" font-size="20" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">8</tspan></text>
+<line x1="481" y1="718" x2="576" y2="718" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+<line x1="481" y1="718" x2="481" y2="759" stroke="#16816b" stroke-width="1.8" marker-end="url(#comp)"/>
+</svg>

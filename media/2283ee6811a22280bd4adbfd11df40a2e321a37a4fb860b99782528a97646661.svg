@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470" role="img" aria-labelledby="title desc"><title id="title">Az erő irányának megadása</title><desc id="desc">Felfelé mutató függőleges tengelyű koordináta-rendszer, a középpontból két erő. A jobbra-lefelé mutató F1 irányszöge α1 ≈ 35°, a vízszintestől az óramutató járásával egyezően mérve. A jobbra-felfelé mutató F2 irányszöge α2 ≈ 320°: ugyanebben az értelemben majdnem teljes kört fordulunk. Mellette az erő négy adata felsorolva, vagyis a pont két koordinátája (x; y), a nagyság és az irányszög.</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="45" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Az erő irányának megadása</text>
+<line x1="115" y1="270" x2="430" y2="270" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<line x1="245" y1="370" x2="245" y2="112" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<text x="438" y="276" font-family="Arial, sans-serif" font-size="19" fill="#243746">x</text><text x="255" y="122" font-family="Arial, sans-serif" font-size="19" fill="#243746">y</text>
+<line x1="245" y1="270" x2="351.5" y2="344.6" stroke="#c43d42" stroke-width="3" marker-end="url(#force)"/>
+<line x1="245" y1="270" x2="335.4" y2="194.2" stroke="#2869b0" stroke-width="3" marker-end="url(#blue)"/>
+<path d="M295.00 270.00 A50 50 0 0 1 286.93 297.23" stroke="#c43d42" stroke-width="2.5" fill="none" marker-end="url(#force)"/>
+<path d="M317.00 270.00 A72 72 0 1 1 297.66 220.90" stroke="#2869b0" stroke-width="2.5" fill="none" marker-end="url(#blue)"/>
+<text x="357" y="339" font-family="Arial, sans-serif" font-size="22" fill="#c43d42">F<tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<text x="343" y="192" font-family="Arial, sans-serif" font-size="22" fill="#2869b0">F<tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<text x="332" y="292" font-family="Arial, sans-serif" font-size="18" fill="#c43d42">α<tspan baseline-shift="sub" font-size="70%">1</tspan> ≈ 35°</text>
+<text x="70" y="208" font-family="Arial, sans-serif" font-size="18" fill="#2869b0">α<tspan baseline-shift="sub" font-size="70%">2</tspan> ≈ 320°</text>
+<text x="470" y="172" font-family="Arial, sans-serif" font-size="20" fill="#243746">(x; y): két adat</text>
+<text x="470" y="214" font-family="Arial, sans-serif" font-size="20" fill="#243746">+ nagyság</text>
+<text x="470" y="256" font-family="Arial, sans-serif" font-size="20" fill="#243746">+ irányszög</text>
+<text x="45" y="414" font-family="Arial, sans-serif" font-size="17" fill="#243746">Az irányszöget a vízszintestől, az óramutató járásával egyezően mérjük;</text>
+<text x="45" y="439" font-family="Arial, sans-serif" font-size="17" fill="#243746">értéke 0° és 360° között bármekkora lehet. Itt az y tengely felfelé mutat.</text>
+</svg>

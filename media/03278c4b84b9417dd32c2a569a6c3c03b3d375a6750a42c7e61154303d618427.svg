@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-label="Húzóerő a test szélén: támadáspont, hatásvonal és értelem; a nyílhossz léptékkel mutatja a nagyságot">
+  <title>Húzóerő a test szélén</title>
+  <desc>Téglalap alakú test; a jobb szélén lévő támadáspontból jobbra, a testtől elfelé mutató vízszintes erőnyíl, F jellel. A szaggatott vízszintes egyenes a hatásvonal, a nyílhegy az értelem. A nagyságot a nyílhossz és a lépték adja; számszerű lépték nincs megadva.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8f3fc"/><stop offset="1" stop-color="#f8f2e5"/></linearGradient>
+    <marker id="tip" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto"><path d="M1 1 11 6 1 11Z" fill="#b03a2e"/></marker>
+  </defs>
+  <rect width="900" height="420" rx="20" fill="url(#bg)"/>
+  <text x="40" y="44" font-size="25" font-weight="bold" font-family="sans-serif" fill="#20394a">Húzóerő a test szélén</text>
+  <rect x="100" y="208" width="370" height="104" rx="18" fill="#d5f5e3" stroke="#1e8449" stroke-width="5"/>
+  <text x="285" y="300" text-anchor="middle" font-size="28" font-family="sans-serif" fill="#176239">test</text>
+  <path d="M68 258H835" stroke="#6a7683" stroke-width="3" stroke-dasharray="12 10"/>
+  <circle cx="464" cy="258" r="9" fill="#b03a2e"/>
+  <path d="M464 258H715" stroke="#b03a2e" stroke-width="10" marker-end="url(#tip)"/>
+  <text x="460" y="344" text-anchor="middle" font-size="24" font-family="sans-serif" fill="#76271d">támadáspont</text>
+  <path d="M460 315V278" stroke="#76271d" stroke-width="2"/>
+  <text x="605" y="192" text-anchor="middle" font-size="29" font-family="sans-serif" font-weight="bold" fill="#76271d">F: az erő jele</text>
+  <text x="720" y="313" text-anchor="middle" font-size="24" font-family="sans-serif" fill="#76271d">értelem</text>
+  <text x="264" y="172" text-anchor="middle" font-size="25" font-family="sans-serif" fill="#364a5e">hatásvonal (szaggatott rész is)</text>
+  <path d="M264 183V242" stroke="#364a5e" stroke-width="2"/>
+  <rect x="520" y="60" width="350" height="69" rx="15" fill="#fff" stroke="#a0640a" stroke-width="3"/>
+  <text x="695" y="102" text-anchor="middle" font-size="21" font-family="sans-serif" fill="#734806">nyílhossz + lépték → nagyság</text>
+</svg>

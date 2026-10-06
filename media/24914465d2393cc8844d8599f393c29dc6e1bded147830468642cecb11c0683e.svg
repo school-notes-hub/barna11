@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-labelledby="title desc"><title id="title">Erő és előjeles vetületei</title><desc id="desc">Lefelé pozitív y tengelyű koordináta-rendszer. Az (x; y) pontból jobbra-lefelé mutató F erő, jobbra mutató Fx és lefelé mutató Fy vetülettel. A szaggatott hatásvonal az x tengellyel és a pontbeli vízszintessel ugyanakkora α szöget zár be (egyállású szögek). Alul: Fx = F cos α; Fy = F sin α; F = √(Fx² + Fy²).</desc><defs>
+<marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.6"/></marker>
+<marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.6"/></marker>
+<marker id="comp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.6"/></marker>
+<marker id="axis" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.6"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2869b0" stroke-width="1.6"/></marker>
+</defs><rect width="720" height="100%" rx="18" fill="#f5f9fc"/>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="25" fill="#243746" font-weight="700">Erő és előjeles vetületei</text>
+<line x1="70" y1="175" x2="610" y2="175" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<text x="625" y="181" font-family="Arial, sans-serif" font-size="24" fill="#243746">x</text>
+<line x1="145" y1="120" x2="145" y2="585" stroke="#546b80" stroke-width="2.5" marker-end="url(#axis)"/>
+<text x="139" y="616" font-family="Arial, sans-serif" font-size="24" fill="#243746">y</text>
+<text x="105" y="160" font-family="Arial, sans-serif" font-size="18" fill="#243746">0</text>
+<text x="78" y="196" font-family="Arial, sans-serif" font-size="22" fill="#243746">−</text>
+<text x="119" y="136" font-family="Arial, sans-serif" font-size="22" fill="#243746">−</text>
+<line x1="193" y1="122" x2="548" y2="540" stroke="#16816b" stroke-width="2.5" stroke-dasharray="6 5"/>
+<path d="M280 175 A45 45 0 0 1 265 209" stroke="#2869b0" stroke-width="2.5" fill="none"/>
+<text x="287" y="215" font-family="Arial, sans-serif" font-size="22" fill="#2869b0">α</text>
+<circle cx="355" cy="313" r="4" fill="white" stroke="#243746" stroke-width="2"/>
+<text x="272" y="340" font-family="Arial, sans-serif" font-size="18" fill="#243746">(x; y)</text>
+<line x1="355" y1="313" x2="497" y2="480" stroke="#c43d42" stroke-width="3.5" marker-end="url(#force)"/>
+<text x="454" y="411" font-family="Arial, sans-serif" font-size="25" fill="#c43d42">F</text>
+<line x1="355" y1="313" x2="497" y2="313" stroke="#2869b0" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="405" y="294" font-family="Arial, sans-serif" font-size="22" fill="#2869b0">F<tspan baseline-shift="sub" font-size="70%">x</tspan></text>
+<line x1="355" y1="313" x2="355" y2="480" stroke="#16816b" stroke-width="2.5" marker-end="url(#comp)"/>
+<text x="317" y="419" font-family="Arial, sans-serif" font-size="22" fill="#16816b">F<tspan baseline-shift="sub" font-size="70%">y</tspan></text>
+<line x1="497" y1="313" x2="497" y2="480" stroke="#16816b" stroke-width="2.5" stroke-dasharray="6 5"/>
+<line x1="355" y1="480" x2="497" y2="480" stroke="#2869b0" stroke-width="2.5" stroke-dasharray="6 5"/>
+<path d="M399 313 A44 44 0 0 1 383 347" stroke="#2869b0" stroke-width="2.5" fill="none"/>
+<text x="406" y="353" font-family="Arial, sans-serif" font-size="22" fill="#2869b0">α</text>
+<text x="300" y="553" font-family="Arial, sans-serif" font-size="18" fill="#243746">Egyállású szögek: azonos α</text>
+<text x="60" y="651" font-family="Arial, sans-serif" font-size="22" fill="#243746">F<tspan baseline-shift="sub" font-size="70%">x</tspan> = F cos α ;  F<tspan baseline-shift="sub" font-size="70%">y</tspan> = F sin α ;  F = √(F<tspan baseline-shift="sub" font-size="70%">x</tspan>² + F<tspan baseline-shift="sub" font-size="70%">y</tspan>²)</text>
+</svg>
