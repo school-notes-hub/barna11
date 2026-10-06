@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1130" viewBox="0 0 640 1130" role="img" aria-labelledby="title"><title id="title">A hang útjai: visszaverődés, átjutás, léghang és közvetlen testhanggerjesztés</title><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="context-stroke"/></marker></defs><rect width="640" height="1130" rx="12" fill="#fffdf8"/><g font-family="DejaVu Sans, sans-serif"><text x="25" y="35" font-size="23" text-anchor="start" fill="#263548">1. Hang érkezik a szerkezetre</text><rect x="75" y="160" width="490" height="85" rx="5" fill="#d8e2e9" stroke="#8395a2"/><path d="M320 65 L320 156" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><text x="320" y="64" font-size="20" text-anchor="middle" fill="#263548">érkező hang</text><path d="M309 154 L174 95" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><path d="M331 154 L460 95" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><text x="40" y="75" font-size="18" text-anchor="start" fill="#263548">visszaverődés</text><text x="423" y="75" font-size="18" text-anchor="start" fill="#263548">visszaverődés</text><path d="M312 202 L143 202" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><path d="M328 202 L497 202" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><text x="320" y="234" font-size="19" text-anchor="middle" fill="#263548">testhang</text><path d="M320 252 L320 301" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><text x="346" y="287" font-size="20" text-anchor="start" fill="#263548">átjutó hang</text>
+<text x="25" y="354" font-size="23" fill="#263548">2. Hangszóró → levegő → fal</text>
+
+<path d="M70 400H555V425H95V610H555V635H70Z" fill="#d8e2e9" stroke="#8395a2"/>
+<rect x="430" y="390" width="32" height="255" fill="#d8e2e9" stroke="#8395a2"/>
+<rect x="127" y="543" width="57" height="65" rx="3" fill="#a9bfcd" stroke="#8395a2"/>
+<circle cx="157" cy="562" r="9" fill="#263548"/>
+<circle cx="157" cy="590" r="13" fill="#263548"/>
+<g stroke="#18628a" stroke-width="3" fill="none">
+<path d="M208 519Q232 554 208 589 M251 489Q292 542 251 591 M297 459Q354 523 297 592 M348 443Q412 514 348 594"/>
+<path d="M482 451Q538 512 482 594 M526 442Q591 513 526 599"/>
+</g>
+<text x="116" y="478" font-size="21" fill="#263548">léghang</text>
+<text x="435" y="675" font-size="21" text-anchor="middle" fill="#263548">fal rezgése</text>
+<text x="25" y="722" font-size="23" fill="#263548">3. Ütés → szerkezet → levegő</text>
+
+<path d="M70 818H555V846H95V1040H555V1068H70Z" fill="#d8e2e9" stroke="#8395a2"/>
+<rect x="430" y="799" width="32" height="280" fill="#d8e2e9" stroke="#8395a2"/>
+<text x="183" y="766" font-size="21" fill="#263548">lépés</text>
+<path d="M216 779V815" stroke="#b64829" stroke-width="3" marker-end="url(#a)"/><path d="M248 779V815" stroke="#b64829" stroke-width="3" marker-end="url(#a)"/>
+<text x="98" y="940" font-size="21" fill="#263548">falat érő ütés</text>
+<path d="M302 933H426" stroke="#b64829" stroke-width="3" marker-end="url(#a)"/>
+<path d="M271 832H401" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/><path d="M446 954V1026" stroke="#18628a" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<text x="277" y="802" font-size="21" fill="#263548">testhang</text>
+<g stroke="#18628a" stroke-width="3" fill="none">
+<path d="M192 856Q228 889 267 856 M170 872Q228 922 289 872 M147 888Q228 955 312 888"/>
+<path d="M478 900Q506 931 478 961 M500 878Q548 931 500 984 M524 855Q590 931 524 1008"/>
+</g>
+<text x="320" y="1112" font-size="20" text-anchor="middle" fill="#263548">A rezgő szerkezet a levegőt is megrezegteti.</text>
+</g></svg>
