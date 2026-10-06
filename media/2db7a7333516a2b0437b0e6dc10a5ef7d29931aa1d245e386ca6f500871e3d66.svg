@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="740" viewBox="0 0 720 740" role="img" aria-labelledby="title desc"><title id="title">Poldi-kalapács: egy ütés, két lenyomat</title><desc id="desc">Elvi metszet: az ütés az ütőcsapon át az ismert keménységű fémrúdra (etalonra), az a acélgolyóra adódik; a golyó egyszerre nyomódik a fémrúdba és a vizsgált anyagba, mindkettőben lenyomatot hagy. A két lenyomat átmérőjéből táblázattal kapjuk a keménységet.</desc><defs><marker id="mb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#196c9c"/></marker><marker id="mr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b74d2f"/></marker><marker id="mt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#243747"/></marker><marker id="mg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#62788a"/></marker><marker id="mn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3f7d4f"/></marker></defs>
+<g font-family="DejaVu Sans, sans-serif">
+<rect width="720" height="740" rx="16" fill="#fffdf8"/>
+<text x="360" y="46" font-size="31" font-weight="700" text-anchor="middle" fill="#243747">Poldi-kalapács</text>
+<text x="360" y="82" font-size="24" font-weight="400" text-anchor="middle" fill="#243747">egy ütés, két lenyomat</text>
+<path d="M300 104 L300 150" fill="none" stroke="#b74d2f" stroke-width="5" marker-end="url(#mr)"/>
+<text x="320" y="134" font-size="25" font-weight="700" text-anchor="start" fill="#b74d2f">ütés</text>
+<rect x="210" y="196" width="180" height="300" rx="6" fill="#e6ebee" stroke="#62788a" stroke-width="2.5"/>
+<rect x="276" y="156" width="48" height="160" rx="0" fill="#7d8b95" stroke="#4d5a63" stroke-width="2"/>
+<text x="196" y="218" font-size="23" font-weight="400" text-anchor="end" fill="#243747">ütőcsap</text>
+<path d="M200 212 L274 230" fill="none" stroke="#62788a" stroke-width="1.5"/>
+<rect x="140" y="318" width="320" height="48" rx="0" fill="#bcd3e3" stroke="#196c9c" stroke-width="2.5"/>
+<rect x="40" y="421" width="640" height="130" rx="0" fill="#e9dcc7" stroke="#9b8565" stroke-width="2.5"/>
+<circle cx="300" cy="394" r="34" fill="#c7ccd1" stroke="#4d5a63" stroke-width="2.5"/>
+<path d="M280.7 366 A34 34 0 0 1 319.3 366" fill="none" stroke="#b74d2f" stroke-width="5"/>
+<path d="M279.3 421 A34 34 0 0 0 320.7 421" fill="none" stroke="#b74d2f" stroke-width="5"/>
+<text x="400" y="250" font-size="22" font-weight="700" text-anchor="start" fill="#196c9c">ismert</text>
+<text x="400" y="276" font-size="22" font-weight="700" text-anchor="start" fill="#196c9c">keménységű fémrúd</text>
+<text x="400" y="302" font-size="22" font-weight="700" text-anchor="start" fill="#196c9c">(etalon)</text>
+<text x="48" y="402" font-size="23" font-weight="700" text-anchor="start" fill="#243747">acélgolyó</text>
+<path d="M166 394 L264 394" fill="none" stroke="#62788a" stroke-width="1.5"/>
+<text x="470" y="410" font-size="23" font-weight="700" text-anchor="start" fill="#b74d2f">lenyomat</text>
+<text x="470" y="436" font-size="23" font-weight="400" text-anchor="start" fill="#b74d2f">a fémrúdban</text>
+<path d="M464 404 L314 364" fill="none" stroke="#b74d2f" stroke-width="1.5"/>
+<text x="470" y="476" font-size="23" font-weight="700" text-anchor="start" fill="#b74d2f">lenyomat a</text>
+<text x="470" y="502" font-size="23" font-weight="400" text-anchor="start" fill="#b74d2f">vizsgált anyagban</text>
+<path d="M464 474 L316 429" fill="none" stroke="#b74d2f" stroke-width="1.5"/>
+<text x="200" y="511" font-size="25" font-weight="700" text-anchor="middle" fill="#6d5a3c">vizsgált anyag</text>
+<text x="30" y="601" font-size="23" font-weight="400" text-anchor="start" fill="#243747">Ugyanaz az ütés éri a fémrudat és a vizsgált anyagot.</text>
+<text x="30" y="633" font-size="23" font-weight="400" text-anchor="start" fill="#243747">A két lenyomat átmérőjét lemérik, és</text>
+<text x="30" y="665" font-size="23" font-weight="400" text-anchor="start" fill="#243747">táblázatból kiolvassák a keménységet.</text>
+<text x="30" y="707" font-size="21" font-weight="400" text-anchor="start" fill="#62788a">Elvi vázlat, nem az eszköz géprajza.</text>
+</g></svg>

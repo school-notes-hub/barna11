@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1340" viewBox="0 0 720 1340" role="img" aria-labelledby="title desc"><title id="title">Támaszok helyettesítése erőkkel</title><desc id="desc">Hat sor: balra egy ideális síkbeli támasz, jobbra az erő, amellyel a támasz a testre hat. Kötél: húzóerő a kötél vonalában, a testtől elfelé. Támasztórúd: erő a rúd tengelye mentén, húzás vagy nyomás. Görgő: a támaszfelületre merőleges erő; ferde felületen a ferde felületre merőleges. Csukló: két erőkomponens. Merev befogás: két erőkomponens és egy reakciónyomaték.</desc><defs><marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.8"/></marker><marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.8"/></marker><marker id="res" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.8"/></marker><marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2a64a8" stroke-width="1.8"/></marker><marker id="ax" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.8"/></marker><marker id="brown" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#b5651d" stroke-width="1.8"/></marker></defs><rect width="720" height="1340" rx="18" fill="#f5f9fc"/>
+<text x="28.0" y="44.0" font-family="Arial, sans-serif" font-size="28" fill="#243746" font-weight="700">Támaszok helyettesítése erőkkel</text>
+<text x="28.0" y="80.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Balra a támasz, jobbra az erő, amellyel a testre hat.</text>
+<text x="28.0" y="128.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">1. Kötél</text>
+<text x="28.0" y="286.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Húzóerő a kötél vonalában, a testtől elfelé.</text>
+<line x1="28.0" y1="301.0" x2="692.0" y2="301.0" stroke="#bac9d2" stroke-width="1"/>
+<path d="M318 191 L350 191 L350 180 L368 200 L350 220 L350 209 L318 209 Z" fill="#9aa8b4"/>
+<rect x="80.0" y="200.0" width="76.0" height="50.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="118.0" y1="200.0" x2="248.0" y2="148.0" stroke="#243746" stroke-width="3"/>
+<line x1="203.0" y1="148.0" x2="288.0" y2="148.0" stroke="#243746" stroke-width="2"/><line x1="207.0" y1="148.0" x2="200.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="217.0" y1="148.0" x2="210.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="227.0" y1="148.0" x2="220.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="237.0" y1="148.0" x2="230.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="247.0" y1="148.0" x2="240.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="257.0" y1="148.0" x2="250.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="267.0" y1="148.0" x2="260.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="277.0" y1="148.0" x2="270.0" y2="138.0" stroke="#243746" stroke-width="1.4"/><line x1="287.0" y1="148.0" x2="280.0" y2="138.0" stroke="#243746" stroke-width="1.4"/>
+<rect x="440.0" y="200.0" width="76.0" height="50.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="478.0" y1="200.0" x2="617.3" y2="144.3" stroke="#546b80" stroke-width="1.5" stroke-dasharray="8 6"/>
+<line x1="478.0" y1="200.0" x2="566.2" y2="164.7" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<text x="28.0" y="333.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">2. Támasztórúd (két végén csuklós)</text>
+<text x="28.0" y="491.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Erő a rúd tengelye mentén; húzás vagy nyomás is lehet.</text>
+<line x1="28.0" y1="506.0" x2="692.0" y2="506.0" stroke="#bac9d2" stroke-width="1"/>
+<path d="M318 396 L350 396 L350 385 L368 405 L350 425 L350 414 L318 414 Z" fill="#9aa8b4"/>
+<rect x="60.0" y="355.0" width="76.0" height="50.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="136.0" y1="380.0" x2="236.0" y2="427.0" stroke="#243746" stroke-width="5"/>
+<circle cx="136" cy="380" r="5" fill="#fff" stroke="#243746" stroke-width="2"/>
+<polygon points="236,427 221.0,452.5 251.0,452.5" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="236" cy="427" r="5" fill="#fff" stroke="#243746" stroke-width="2"/><line x1="213.0" y1="452.5" x2="259.0" y2="452.5" stroke="#243746" stroke-width="2"/><line x1="217.0" y1="452.5" x2="210.0" y2="462.5" stroke="#243746" stroke-width="1.4"/><line x1="227.0" y1="452.5" x2="220.0" y2="462.5" stroke="#243746" stroke-width="1.4"/><line x1="237.0" y1="452.5" x2="230.0" y2="462.5" stroke="#243746" stroke-width="1.4"/><line x1="247.0" y1="452.5" x2="240.0" y2="462.5" stroke="#243746" stroke-width="1.4"/><line x1="257.0" y1="452.5" x2="250.0" y2="462.5" stroke="#243746" stroke-width="1.4"/>
+<rect x="420.0" y="355.0" width="76.0" height="50.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="496.0" y1="380.0" x2="596.0" y2="427.0" stroke="#546b80" stroke-width="1.5" stroke-dasharray="8 6"/>
+<line x1="584.0" y1="419.5" x2="498.0" y2="381.3" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<text x="28.0" y="538.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">3. Görgő</text>
+<text x="28.0" y="696.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">A reakcióerő a támaszfelületre merőleges.</text>
+<line x1="28.0" y1="711.0" x2="692.0" y2="711.0" stroke="#bac9d2" stroke-width="1"/>
+<path d="M318 601 L350 601 L350 590 L368 610 L350 630 L350 619 L318 619 Z" fill="#9aa8b4"/>
+<rect x="50.0" y="572.0" width="220.0" height="22.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<polygon points="230,594 212.0,622.08 248.0,622.08" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="230" cy="594" r="5" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="220" cy="628.08" r="6" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="240" cy="628.08" r="6" fill="#fff" stroke="#243746" stroke-width="2"/><line x1="204.0" y1="634.1" x2="256.0" y2="634.1" stroke="#243746" stroke-width="2"/><line x1="208.0" y1="634.1" x2="201.0" y2="644.1" stroke="#243746" stroke-width="1.4"/><line x1="218.0" y1="634.1" x2="211.0" y2="644.1" stroke="#243746" stroke-width="1.4"/><line x1="228.0" y1="634.1" x2="221.0" y2="644.1" stroke="#243746" stroke-width="1.4"/><line x1="238.0" y1="634.1" x2="231.0" y2="644.1" stroke="#243746" stroke-width="1.4"/><line x1="248.0" y1="634.1" x2="241.0" y2="644.1" stroke="#243746" stroke-width="1.4"/>
+<rect x="410.0" y="572.0" width="220.0" height="22.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="590.0" y1="665.0" x2="590.0" y2="596.0" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<line x1="550.0" y1="594.0" x2="630.0" y2="594.0" stroke="#546b80" stroke-width="1.5" stroke-dasharray="8 6"/>
+<path d="M604.0 594.0 L604.0 608.0 L590.0 608.0" fill="none" stroke="#243746" stroke-width="1.6"/>
+<text x="28.0" y="743.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">4. Görgő ferde felületen</text>
+<text x="28.0" y="901.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">A reakció a ferde felületre merőleges, nem függőleges.</text>
+<line x1="28.0" y1="916.0" x2="692.0" y2="916.0" stroke="#bac9d2" stroke-width="1"/>
+<path d="M318 806 L350 806 L350 795 L368 815 L350 835 L350 824 L318 824 Z" fill="#9aa8b4"/>
+<rect x="50.0" y="777.0" width="220.0" height="22.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<g transform="rotate(-30 200 799)"><polygon points="200,799 182.0,827.08 218.0,827.08" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="200" cy="799" r="5" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="190" cy="833.08" r="6" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="210" cy="833.08" r="6" fill="#fff" stroke="#243746" stroke-width="2"/><line x1="174.0" y1="839.1" x2="226.0" y2="839.1" stroke="#243746" stroke-width="2"/><line x1="178.0" y1="839.1" x2="171.0" y2="849.1" stroke="#243746" stroke-width="1.4"/><line x1="188.0" y1="839.1" x2="181.0" y2="849.1" stroke="#243746" stroke-width="1.4"/><line x1="198.0" y1="839.1" x2="191.0" y2="849.1" stroke="#243746" stroke-width="1.4"/><line x1="208.0" y1="839.1" x2="201.0" y2="849.1" stroke="#243746" stroke-width="1.4"/><line x1="218.0" y1="839.1" x2="211.0" y2="849.1" stroke="#243746" stroke-width="1.4"/></g>
+<rect x="410.0" y="777.0" width="220.0" height="22.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="516.7" y1="824.0" x2="603.3" y2="774.0" stroke="#546b80" stroke-width="1.5" stroke-dasharray="8 6"/>
+<line x1="600.0" y1="868.3" x2="561.0" y2="800.7" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<path d="M572.1 792.0 L579.1 804.1 L567.0 811.1" fill="none" stroke="#243746" stroke-width="1.6"/>
+<text x="28.0" y="948.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">5. Csukló</text>
+<text x="28.0" y="1106.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Két erőkomponens; nyomatékot nem visz át.</text>
+<line x1="28.0" y1="1121.0" x2="692.0" y2="1121.0" stroke="#bac9d2" stroke-width="1"/>
+<path d="M318 1011 L350 1011 L350 1000 L368 1020 L350 1040 L350 1029 L318 1029 Z" fill="#9aa8b4"/>
+<rect x="80.0" y="982.0" width="220.0" height="22.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<polygon points="96,1004 78.0,1034.6 114.0,1034.6" fill="#fff" stroke="#243746" stroke-width="2"/><circle cx="96" cy="1004" r="5" fill="#fff" stroke="#243746" stroke-width="2"/><line x1="70.0" y1="1034.6" x2="122.0" y2="1034.6" stroke="#243746" stroke-width="2"/><line x1="74.0" y1="1034.6" x2="67.0" y2="1044.6" stroke="#243746" stroke-width="1.4"/><line x1="84.0" y1="1034.6" x2="77.0" y2="1044.6" stroke="#243746" stroke-width="1.4"/><line x1="94.0" y1="1034.6" x2="87.0" y2="1044.6" stroke="#243746" stroke-width="1.4"/><line x1="104.0" y1="1034.6" x2="97.0" y2="1044.6" stroke="#243746" stroke-width="1.4"/><line x1="114.0" y1="1034.6" x2="107.0" y2="1044.6" stroke="#243746" stroke-width="1.4"/>
+<rect x="440.0" y="982.0" width="220.0" height="22.0" rx="3" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="388.0" y1="1004.0" x2="453.0" y2="1004.0" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<text x="386.0" y="990.0" font-family="Arial, sans-serif" font-size="25" fill="#c43d42">A<tspan font-size="22" dy="6">x</tspan></text>
+<line x1="456.0" y1="1070.0" x2="456.0" y2="1007.0" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<text x="468.0" y="1066.0" font-family="Arial, sans-serif" font-size="25" fill="#c43d42">A<tspan font-size="22" dy="6">y</tspan></text>
+<text x="28.0" y="1153.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">6. Merev befogás</text>
+<text x="28.0" y="1311.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Két erőkomponens és egy reakciónyomaték.</text>
+<path d="M318 1216 L350 1216 L350 1205 L368 1225 L350 1245 L350 1234 L318 1234 Z" fill="#9aa8b4"/>
+<rect x="58" y="1161" width="22" height="116" fill="#e3e9ee" stroke="none"/>
+<line x1="80.0" y1="1161.0" x2="80.0" y2="1277.0" stroke="#243746" stroke-width="2.5"/>
+<line x1="80.0" y1="1165.0" x2="62.0" y2="1177.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1177.0" x2="62.0" y2="1189.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1189.0" x2="62.0" y2="1201.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1201.0" x2="62.0" y2="1213.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1213.0" x2="62.0" y2="1225.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1225.0" x2="62.0" y2="1237.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1237.0" x2="62.0" y2="1249.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1249.0" x2="62.0" y2="1261.0" stroke="#243746" stroke-width="1.4"/>
+<line x1="80.0" y1="1261.0" x2="62.0" y2="1273.0" stroke="#243746" stroke-width="1.4"/>
+<rect x="80.0" y="1187.0" width="220.0" height="22.0" rx="0" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<rect x="460.0" y="1187.0" width="200.0" height="22.0" rx="0" fill="#dde8f0" stroke="#243746" stroke-width="2"/>
+<line x1="392.0" y1="1198.0" x2="457.0" y2="1198.0" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<text x="370.0" y="1186.0" font-family="Arial, sans-serif" font-size="25" fill="#c43d42">A<tspan font-size="22" dy="6">x</tspan></text>
+<line x1="460.0" y1="1277.0" x2="460.0" y2="1211.0" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<text x="472.0" y="1273.0" font-family="Arial, sans-serif" font-size="25" fill="#c43d42">A<tspan font-size="22" dy="6">y</tspan></text>
+<path d="M420.5 1183.6 A42 42 0 0 1 496.4 1177.0" fill="none" stroke="#c43d42" stroke-width="3.5" marker-end="url(#force)"/>
+<text x="452.0" y="1144.0" font-family="Arial, sans-serif" font-size="25" fill="#c43d42" text-anchor="middle">M<tspan font-size="22" dy="6">A</tspan></text>
+</svg>

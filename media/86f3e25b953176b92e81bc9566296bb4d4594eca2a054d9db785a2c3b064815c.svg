@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="770" viewBox="0 0 720 770" role="img" aria-labelledby="title desc"><title id="title">Korróziós cella: vascső a rézcsőhöz kötve</title><desc id="desc">Hosszmetszet: balra vascső, jobbra rézcső, bennük víz mint elektrolit. Az anódon, a vascső belső felületén a csatlakozás közelében a vas oxidálódik: Fe → Fe2+ + 2e−; az elektronok a fémen át a rézcső felé jutnak, ahol a vízben oldott oxigén redukálódik: O2 + 2H2O + 4e− → 4OH−. A vascső korrodálódik, a rézcső ép marad.</desc><defs><marker id="mb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#196c9c"/></marker><marker id="mr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b74d2f"/></marker><marker id="mt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#243747"/></marker><marker id="mg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#62788a"/></marker><marker id="mn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3f7d4f"/></marker></defs>
+<g font-family="DejaVu Sans, sans-serif">
+<rect width="720" height="770" rx="16" fill="#fffdf8"/>
+<text x="360" y="46" font-size="31" font-weight="700" text-anchor="middle" fill="#243747">Korróziós cella</text>
+<text x="360" y="82" font-size="24" font-weight="400" text-anchor="middle" fill="#243747">vascső a rézcsőhöz csatlakoztatva</text>
+<text x="40" y="134" font-size="25" font-weight="700" text-anchor="start" fill="#b74d2f">Anód: vascső (−)</text>
+<text x="40" y="166" font-size="23" font-weight="400" text-anchor="start" fill="#243747">a vas oxidálódik</text>
+<text x="40" y="204" font-size="26" font-weight="700" text-anchor="start" fill="#243747">Fe → Fe²⁺ + 2e⁻</text>
+<text x="392" y="134" font-size="25" font-weight="700" text-anchor="start" fill="#196c9c">Katód: rézcső (+)</text>
+<text x="392" y="166" font-size="22" font-weight="400" text-anchor="start" fill="#243747">az oldott oxigén redukálódik</text>
+<text x="392" y="204" font-size="23" font-weight="700" text-anchor="start" fill="#243747">O₂ + 2H₂O + 4e⁻ → 4OH⁻</text>
+<rect x="30" y="285" width="330" height="37" rx="0" fill="#9aa5ad" stroke="#59656e" stroke-width="2"/>
+<rect x="30" y="482" width="330" height="37" rx="0" fill="#9aa5ad" stroke="#59656e" stroke-width="2"/>
+<rect x="360" y="285" width="330" height="37" rx="0" fill="#d08a5a" stroke="#8a4b26" stroke-width="2"/>
+<rect x="360" y="482" width="330" height="37" rx="0" fill="#d08a5a" stroke="#8a4b26" stroke-width="2"/>
+<rect x="30" y="322" width="660" height="160" rx="0" fill="#d4ebf7" stroke="none" stroke-width="2"/>
+<path d="M360 279 L360 322" fill="none" stroke="#243747" stroke-width="3"/>
+<path d="M360 482 L360 525" fill="none" stroke="#243747" stroke-width="3"/>
+<path d="M200 303 L520 303" fill="none" stroke="#ffffff" stroke-width="4"/>
+<path d="M200 303 L520 303" fill="none" stroke="#243747" stroke-width="3" marker-end="url(#mt)"/>
+<text x="360" y="269" font-size="23" font-weight="700" text-anchor="middle" fill="#243747">e⁻ a fémen át</text>
+<path d="M236 322 q9 -16 20 0 z" fill="#d4ebf7" stroke="#8b4a1c" stroke-width="2.5"/>
+<path d="M242 482 q9 16 20 0 z" fill="#d4ebf7" stroke="#8b4a1c" stroke-width="2.5"/>
+<path d="M280 322 q9 -16 20 0 z" fill="#d4ebf7" stroke="#8b4a1c" stroke-width="2.5"/>
+<path d="M286 482 q9 16 20 0 z" fill="#d4ebf7" stroke="#8b4a1c" stroke-width="2.5"/>
+<path d="M320 322 q9 -16 20 0 z" fill="#d4ebf7" stroke="#8b4a1c" stroke-width="2.5"/>
+<path d="M326 482 q9 16 20 0 z" fill="#d4ebf7" stroke="#8b4a1c" stroke-width="2.5"/>
+<path d="M300 332 L300 384" fill="none" stroke="#b74d2f" stroke-width="3" marker-end="url(#mr)"/>
+<text x="312" y="378" font-size="24" font-weight="700" text-anchor="start" fill="#b74d2f">Fe²⁺</text>
+<text x="392" y="414" font-size="23" font-weight="700" text-anchor="start" fill="#196c9c">oldott O₂</text>
+<path d="M440 386 L440 330" fill="none" stroke="#196c9c" stroke-width="3" marker-end="url(#mb)"/>
+<path d="M600 330 L600 386" fill="none" stroke="#196c9c" stroke-width="3" marker-end="url(#mb)"/>
+<text x="614" y="382" font-size="24" font-weight="700" text-anchor="start" fill="#196c9c">OH⁻</text>
+<text x="360" y="454" font-size="25" font-weight="700" text-anchor="middle" fill="#196c9c">víz = elektrolit</text>
+<text x="195" y="552" font-size="25" font-weight="700" text-anchor="middle" fill="#243747">vascső</text>
+<text x="525" y="552" font-size="25" font-weight="700" text-anchor="middle" fill="#243747">rézcső</text>
+<text x="40" y="640" font-size="23" font-weight="400" text-anchor="start" fill="#243747">A vas a kevésbé nemes fém: a csatlakozás</text>
+<text x="40" y="672" font-size="23" font-weight="400" text-anchor="start" fill="#243747">környékén a vascső korrodálódik,</text>
+<text x="40" y="704" font-size="23" font-weight="400" text-anchor="start" fill="#243747">a rézcső ép marad.</text>
+<text x="40" y="750" font-size="23" font-weight="400" text-anchor="start" fill="#62788a">Az elektrolitban ionok szállítják a töltést.</text>
+</g></svg>

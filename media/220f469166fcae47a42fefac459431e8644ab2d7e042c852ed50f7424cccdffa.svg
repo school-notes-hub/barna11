@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="800" viewBox="0 0 720 800" role="img" aria-labelledby="title desc"><title id="title">Átváltási lépcsők és a súlyerő</title><desc id="desc">Három lépcső: hosszúság km, m, dm, cm, mm (szorzók 1000, 10, 10, 10); tömeg t, kg, dkg, g (szorzók 1000, 100, 10); erő kN, N (szorzó 1000). Jobbra, a kisebb egység felé szorzunk, balra osztunk. A kilogrammból a newtonba szaggatott nyíl vezet: ez nem átváltás, hanem számolás, G = m · g, g ≈ 10 m/s².</desc><defs><marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.8"/></marker><marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.8"/></marker><marker id="res" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.8"/></marker><marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2a64a8" stroke-width="1.8"/></marker><marker id="ax" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.8"/></marker><marker id="brown" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#b5651d" stroke-width="1.8"/></marker></defs><rect width="720" height="800" rx="18" fill="#f5f9fc"/>
+<text x="28.0" y="44.0" font-family="Arial, sans-serif" font-size="28" fill="#243746" font-weight="700">Átváltási lépcsők</text>
+<text x="28.0" y="80.0" font-family="Arial, sans-serif" font-size="22" fill="#243746">Kisebb egység felé (jobbra) szorzunk, nagyobb felé (balra) osztunk.</text>
+<text x="28.0" y="134.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">Hosszúság</text>
+<rect x="34.0" y="186.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="70.0" y="222.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">km</text>
+<rect x="179.0" y="186.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="215.0" y="222.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">m</text>
+<rect x="324.0" y="186.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="360.0" y="222.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">dm</text>
+<rect x="469.0" y="186.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="505.0" y="222.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">cm</text>
+<rect x="614.0" y="186.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="650.0" y="222.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">mm</text>
+<line x1="112.0" y1="200.0" x2="173.0" y2="200.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="142.5" y="180.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 1000</text>
+<line x1="173.0" y1="228.0" x2="112.0" y2="228.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="142.5" y="266.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 1000</text>
+<line x1="257.0" y1="200.0" x2="318.0" y2="200.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="287.5" y="180.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 10</text>
+<line x1="318.0" y1="228.0" x2="257.0" y2="228.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="287.5" y="266.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 10</text>
+<line x1="402.0" y1="200.0" x2="463.0" y2="200.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="432.5" y="180.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 10</text>
+<line x1="463.0" y1="228.0" x2="402.0" y2="228.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="432.5" y="266.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 10</text>
+<line x1="547.0" y1="200.0" x2="608.0" y2="200.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="577.5" y="180.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 10</text>
+<line x1="608.0" y1="228.0" x2="547.0" y2="228.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="577.5" y="266.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 10</text>
+<text x="28.0" y="319.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">Tömeg</text>
+<rect x="34.0" y="371.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="70.0" y="407.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">t</text>
+<rect x="179.0" y="371.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="215.0" y="407.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">kg</text>
+<rect x="324.0" y="371.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="360.0" y="407.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">dkg</text>
+<rect x="469.0" y="371.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="505.0" y="407.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">g</text>
+<line x1="112.0" y1="385.0" x2="173.0" y2="385.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="142.5" y="365.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 1000</text>
+<line x1="173.0" y1="413.0" x2="112.0" y2="413.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="142.5" y="451.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 1000</text>
+<line x1="257.0" y1="385.0" x2="318.0" y2="385.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="287.5" y="365.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 100</text>
+<line x1="318.0" y1="413.0" x2="257.0" y2="413.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="287.5" y="451.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 100</text>
+<line x1="402.0" y1="385.0" x2="463.0" y2="385.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="432.5" y="365.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 10</text>
+<line x1="463.0" y1="413.0" x2="402.0" y2="413.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="432.5" y="451.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 10</text>
+<text x="28.0" y="584.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">Erő</text>
+<rect x="34.0" y="636.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="70.0" y="672.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">kN</text>
+<rect x="179.0" y="636.0" width="72.0" height="54.0" rx="8" fill="#fff" stroke="#243746" stroke-width="2"/>
+<text x="215.0" y="672.0" font-family="Arial, sans-serif" font-size="26" fill="#243746" font-weight="700" text-anchor="middle">N</text>
+<line x1="112.0" y1="650.0" x2="173.0" y2="650.0" stroke="#16816b" stroke-width="2.5" marker-end="url(#res)"/>
+<text x="142.5" y="630.0" font-family="Arial, sans-serif" font-size="22" fill="#16816b" text-anchor="middle">· 1000</text>
+<line x1="173.0" y1="678.0" x2="112.0" y2="678.0" stroke="#2a64a8" stroke-width="2.5" marker-end="url(#blue)"/>
+<text x="142.5" y="716.0" font-family="Arial, sans-serif" font-size="22" fill="#2a64a8" text-anchor="middle">: 1000</text>
+<line x1="215.0" y1="427" x2="215.0" y2="632" stroke="#b5651d" stroke-width="3.5" stroke-dasharray="10 7" marker-end="url(#brown)"/>
+<text x="237.0" y="505.0" font-family="Arial, sans-serif" font-size="23" fill="#8a4a12" font-weight="700">Tömegből erő: nem átváltás,</text>
+<text x="237.0" y="535.0" font-family="Arial, sans-serif" font-size="23" fill="#8a4a12" font-weight="700">hanem számolás: G = m · g</text>
+<text x="237.0" y="565.0" font-family="Arial, sans-serif" font-size="22" fill="#8a4a12">g ≈ 10 m/s², így 1 kg súlya kb. 10 N</text>
+<text x="28.0" y="772.0" font-family="Arial, sans-serif" font-size="22" fill="#243746">Előbb a tömeget váltsd kilogrammra, csak azután szorozz g-vel.</text>
+</svg>

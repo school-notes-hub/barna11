@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="920" viewBox="0 0 720 920" role="img" aria-labelledby="title desc"><title id="title">Oxidok, bázisok, savak és sók kapcsolata</title><desc id="desc">Fém-oxid (pl. CaO) vízzel bázist ad (pl. Ca(OH)2, vizes oldata lúg); nemfém-oxid (pl. CO2) vízzel oxosavat ad (pl. H2CO3). Lúg és sav cserebomlásakor só és víz keletkezik, pl. HCl + NaOH → NaCl + H2O.</desc><defs><marker id="mb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#196c9c"/></marker><marker id="mr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b74d2f"/></marker><marker id="mt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#243747"/></marker><marker id="mg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#62788a"/></marker><marker id="mn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3f7d4f"/></marker></defs>
+<g font-family="DejaVu Sans, sans-serif">
+<rect width="720" height="920" rx="16" fill="#fffdf8"/>
+<text x="360" y="48" font-size="30" font-weight="700" text-anchor="middle" fill="#243747">Oxidok, bázisok, savak, sók</text>
+<rect x="30" y="80" width="310" height="110" rx="10" fill="#ffffff" stroke="#196c9c" stroke-width="3"/>
+<text x="185" y="120" font-size="27" font-weight="700" text-anchor="middle" fill="#196c9c">fém-oxid</text>
+<text x="185" y="152" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">pl. CaO,</text>
+<text x="185" y="184" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">égetett mész</text>
+<rect x="380" y="80" width="310" height="110" rx="10" fill="#ffffff" stroke="#b74d2f" stroke-width="3"/>
+<text x="535" y="120" font-size="27" font-weight="700" text-anchor="middle" fill="#b74d2f">nemfém-oxid</text>
+<text x="535" y="152" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">pl. CO₂,</text>
+<text x="535" y="184" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">szén-dioxid</text>
+<path d="M185 192 L185 282" fill="none" stroke="#196c9c" stroke-width="3" marker-end="url(#mb)"/>
+<text x="200" y="245" font-size="25" font-weight="700" text-anchor="start" fill="#196c9c">+ víz</text>
+<path d="M535 192 L535 282" fill="none" stroke="#b74d2f" stroke-width="3" marker-end="url(#mr)"/>
+<text x="550" y="245" font-size="25" font-weight="700" text-anchor="start" fill="#b74d2f">+ víz</text>
+<rect x="30" y="286" width="310" height="150" rx="10" fill="#ffffff" stroke="#196c9c" stroke-width="3"/>
+<text x="185" y="326" font-size="27" font-weight="700" text-anchor="middle" fill="#196c9c">bázis (hidroxid)</text>
+<text x="185" y="358" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">pl. Ca(OH)₂,</text>
+<text x="185" y="390" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">oltott mész;</text>
+<text x="185" y="422" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">vizes oldata: lúg</text>
+<rect x="380" y="286" width="310" height="150" rx="10" fill="#ffffff" stroke="#b74d2f" stroke-width="3"/>
+<text x="535" y="326" font-size="27" font-weight="700" text-anchor="middle" fill="#b74d2f">sav</text>
+<text x="535" y="358" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">itt: oxosav,</text>
+<text x="535" y="390" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">pl. szénsav,</text>
+<text x="535" y="422" font-size="23" font-weight="400" text-anchor="middle" fill="#243747">H₂CO₃</text>
+<path d="M185 438 L300 524" fill="none" stroke="#243747" stroke-width="3" marker-end="url(#mt)"/>
+<text x="178" y="494" font-size="25" font-weight="700" text-anchor="start" fill="#196c9c">lúg</text>
+<path d="M535 438 L420 524" fill="none" stroke="#243747" stroke-width="3" marker-end="url(#mt)"/>
+<text x="500" y="494" font-size="25" font-weight="700" text-anchor="start" fill="#b74d2f">sav</text>
+<rect x="80" y="524" width="560" height="150" rx="10" fill="#ffffff" stroke="#243747" stroke-width="3"/>
+<text x="360" y="568" font-size="29" font-weight="700" text-anchor="middle" fill="#243747">só + víz</text>
+<text x="360" y="606" font-size="24" font-weight="400" text-anchor="middle" fill="#243747">cserebomlás (semlegesítés)</text>
+<text x="360" y="646" font-size="24" font-weight="400" text-anchor="middle" fill="#243747">pl. HCl + NaOH → NaCl + H₂O</text>
+<text x="40" y="722" font-size="22" font-weight="400" text-anchor="start" fill="#243747">A fém-oxid csak akkor ad vízzel bázist,</text>
+<text x="40" y="752" font-size="22" font-weight="400" text-anchor="start" fill="#243747">ha oldódik vízben.</text>
+<text x="40" y="794" font-size="22" font-weight="400" text-anchor="start" fill="#243747">Nem minden oxid lép reakcióba vízzel:</text>
+<text x="40" y="824" font-size="22" font-weight="400" text-anchor="start" fill="#243747">a kvarcból (SiO₂) vízzel nem lesz sav.</text>
+<text x="40" y="866" font-size="22" font-weight="400" text-anchor="start" fill="#243747">Nem minden sav keletkezik oxidból:</text>
+<text x="40" y="896" font-size="22" font-weight="400" text-anchor="start" fill="#243747">a sósav (HCl) nem oxosav.</text>
+</g></svg>

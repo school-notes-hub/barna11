@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820" role="img" aria-labelledby="title desc"><title id="title">Három hőmérsékleti skála</title><desc id="desc">A Celsius-, a kelvin- és a Fahrenheit-skála ugyanazon három hőmérsékletnél: a víz forráspontja 100 °C = 373,15 K = 212 °F; a víz fagyáspontja 0 °C = 273,15 K = 32 °F; az abszolút nulla fok −273,15 °C = 0 K. A Celsius- és a kelvin-skála beosztása egyforma.</desc><defs><marker id="mb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#196c9c"/></marker><marker id="mr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b74d2f"/></marker><marker id="mt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#243747"/></marker><marker id="mg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#62788a"/></marker><marker id="mn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3f7d4f"/></marker></defs>
+<g font-family="DejaVu Sans, sans-serif">
+<rect width="720" height="820" rx="16" fill="#fffdf8"/>
+<text x="360" y="46" font-size="31" font-weight="700" text-anchor="middle" fill="#243747">Három hőmérsékleti skála</text>
+<text x="330" y="112" font-size="30" font-weight="700" text-anchor="middle" fill="#b74d2f">°C</text>
+<path d="M330 135 L330 665" fill="none" stroke="#b74d2f" stroke-width="6"/>
+<text x="480" y="112" font-size="30" font-weight="700" text-anchor="middle" fill="#196c9c">K</text>
+<path d="M480 135 L480 665" fill="none" stroke="#196c9c" stroke-width="6"/>
+<text x="630" y="112" font-size="30" font-weight="700" text-anchor="middle" fill="#3f7d4f">°F</text>
+<path d="M630 135 L630 358.635" fill="none" stroke="#3f7d4f" stroke-width="6"/>
+<path d="M630 358.635 L630 665" fill="none" stroke="#3f7d4f" stroke-width="3" stroke-dasharray="4 10"/>
+<path d="M220 160 L700 160" fill="none" stroke="#62788a" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="16" y="154" font-size="23" font-weight="700" text-anchor="start" fill="#243747">víz</text>
+<text x="16" y="182" font-size="23" font-weight="700" text-anchor="start" fill="#243747">forráspontja</text>
+<path d="M220 288.635 L700 288.635" fill="none" stroke="#62788a" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="16" y="282.635" font-size="23" font-weight="700" text-anchor="start" fill="#243747">víz</text>
+<text x="16" y="310.635" font-size="23" font-weight="700" text-anchor="start" fill="#243747">fagyáspontja</text>
+<path d="M220 640 L700 640" fill="none" stroke="#62788a" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="16" y="634" font-size="23" font-weight="700" text-anchor="start" fill="#243747">abszolút</text>
+<text x="16" y="662" font-size="23" font-weight="700" text-anchor="start" fill="#243747">nulla fok</text>
+<circle cx="330" cy="160" r="8" fill="#b74d2f" stroke="none" stroke-width="2"/>
+<text x="344" y="150" font-size="23" font-weight="700" text-anchor="start" fill="#b74d2f">100</text>
+<circle cx="330" cy="288.635" r="8" fill="#b74d2f" stroke="none" stroke-width="2"/>
+<text x="344" y="278.635" font-size="23" font-weight="700" text-anchor="start" fill="#b74d2f">0</text>
+<circle cx="330" cy="640" r="8" fill="#b74d2f" stroke="none" stroke-width="2"/>
+<text x="344" y="630" font-size="23" font-weight="700" text-anchor="start" fill="#b74d2f">−273,15</text>
+<circle cx="480" cy="160" r="8" fill="#196c9c" stroke="none" stroke-width="2"/>
+<text x="494" y="150" font-size="23" font-weight="700" text-anchor="start" fill="#196c9c">373,15</text>
+<circle cx="480" cy="288.635" r="8" fill="#196c9c" stroke="none" stroke-width="2"/>
+<text x="494" y="278.635" font-size="23" font-weight="700" text-anchor="start" fill="#196c9c">273,15</text>
+<circle cx="480" cy="640" r="8" fill="#196c9c" stroke="none" stroke-width="2"/>
+<text x="494" y="630" font-size="23" font-weight="700" text-anchor="start" fill="#196c9c">0</text>
+<circle cx="630" cy="160" r="8" fill="#3f7d4f" stroke="none" stroke-width="2"/>
+<text x="644" y="150" font-size="23" font-weight="700" text-anchor="start" fill="#3f7d4f">212</text>
+<circle cx="630" cy="288.635" r="8" fill="#3f7d4f" stroke="none" stroke-width="2"/>
+<text x="644" y="278.635" font-size="23" font-weight="700" text-anchor="start" fill="#3f7d4f">32</text>
+<path d="M308 170 L308 278.635" fill="none" stroke="#243747" stroke-width="2" marker-end="url(#mt)" marker-start="url(#mt)"/>
+<text x="300" y="232.317" font-size="22" font-weight="400" text-anchor="end" fill="#243747">100 °C</text>
+<path d="M458 170 L458 278.635" fill="none" stroke="#243747" stroke-width="2" marker-end="url(#mt)" marker-start="url(#mt)"/>
+<text x="450" y="232.317" font-size="22" font-weight="400" text-anchor="end" fill="#243747">100 K</text>
+<text x="30" y="718" font-size="23" font-weight="400" text-anchor="start" fill="#243747">A °C és a K beosztása egyforma: 1 °C-os változás</text>
+<text x="30" y="750" font-size="23" font-weight="400" text-anchor="start" fill="#243747">= 1 K-es változás; csak a nullpontjuk tér el.</text>
+<text x="30" y="782" font-size="23" font-weight="400" text-anchor="start" fill="#243747">Átváltás: T (K) = t (°C) + 273,15.</text>
+</g></svg>

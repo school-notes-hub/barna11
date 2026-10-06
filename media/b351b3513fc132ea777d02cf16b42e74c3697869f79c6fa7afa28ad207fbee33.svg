@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="800" viewBox="0 0 720 800" role="img" aria-labelledby="title desc"><title id="title">Egyensúly vagy hatás és ellenhatás?</title><desc id="desc">Felül a könyv külön kirajzolva: lefelé a G nehézségi erő (a Föld vonzása), felfelé az asztal tartóereje; ugyanarra a testre hatnak, egyensúlyban vannak. Alul az asztal külön kirajzolva: a könyv lefelé ható nyomóereje, a tartóerő ellenhatása, másik testre hat.</desc><defs><marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.8"/></marker><marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.8"/></marker><marker id="res" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.8"/></marker><marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2a64a8" stroke-width="1.8"/></marker><marker id="ax" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.8"/></marker><marker id="brown" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#b5651d" stroke-width="1.8"/></marker></defs><rect width="720" height="800" rx="18" fill="#f5f9fc"/>
+<text x="28.0" y="44.0" font-family="Arial, sans-serif" font-size="28" fill="#243746" font-weight="700">Egyensúly vagy hatás és ellenhatás?</text>
+<text x="28.0" y="80.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Könyv nyugszik egy vízszintes asztalon.</text>
+<text x="28.0" y="136.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">1. A könyvre ható erők</text>
+<rect x="290.0" y="170.0" width="150.0" height="120.0" rx="6" fill="#e8dcc8" stroke="#243746" stroke-width="2"/>
+<text x="365.0" y="202.0" font-family="Arial, sans-serif" font-size="23" fill="#243746" text-anchor="middle">könyv</text>
+<circle cx="365.0" cy="230.0" r="4" fill="#243746"/>
+<line x1="365.0" y1="230.0" x2="365.0" y2="282.0" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<line x1="365.0" y1="350.0" x2="365.0" y2="298.0" stroke="#2a64a8" stroke-width="4" marker-end="url(#blue)"/>
+<text x="381.0" y="270.0" font-family="Arial, sans-serif" font-size="25" fill="#c43d42" font-weight="700">G</text>
+<text x="460.0" y="270.0" font-family="Arial, sans-serif" font-size="23" fill="#c43d42">a Föld vonzása</text>
+<text x="381.0" y="340.0" font-family="Arial, sans-serif" font-size="23" fill="#2a64a8">az asztal tartóereje</text>
+<text x="28.0" y="448.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Ugyanarra a testre hatnak, egyenlő nagyok:</text>
+<text x="28.0" y="478.0" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">kiegyenlítik egymást, ez egyensúly.</text>
+<line x1="28.0" y1="506.0" x2="692.0" y2="506.0" stroke="#bac9d2" stroke-width="1"/>
+<text x="28.0" y="546.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">2. Az asztalra ható erő a könyvtől</text>
+<rect x="200.0" y="625.0" width="320.0" height="22.0" rx="2" fill="#d9c3a5" stroke="#243746" stroke-width="2"/>
+<rect x="220.0" y="647.0" width="18.0" height="58.0" rx="0" fill="#d9c3a5" stroke="#243746" stroke-width="2"/>
+<rect x="482.0" y="647.0" width="18.0" height="58.0" rx="0" fill="#d9c3a5" stroke="#243746" stroke-width="2"/>
+<text x="360.0" y="675.0" font-family="Arial, sans-serif" font-size="23" fill="#243746" text-anchor="middle">asztal</text>
+<line x1="365.0" y1="570.0" x2="365.0" y2="622.0" stroke="#c43d42" stroke-width="4" marker-end="url(#force)"/>
+<text x="381.0" y="595.0" font-family="Arial, sans-serif" font-size="23" fill="#c43d42">a könyv nyomóereje</text>
+<text x="28.0" y="752.0" font-family="Arial, sans-serif" font-size="23" fill="#243746" font-weight="700">Ez a tartóerő ellenhatása: másik testre hat.</text>
+<text x="28.0" y="782.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Az asztal többi erejét itt nem ábrázoljuk.</text>
+</svg>

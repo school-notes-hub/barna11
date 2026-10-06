@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1110" viewBox="0 0 720 1110" role="img" aria-labelledby="title desc"><title id="title">Három kötéstípus</title><desc id="desc">Ionos kötés: pozitív és negatív ionok váltakozó, szabályos elrendeződése. Kovalens kötés: két atom közös elektronpárja az átfedő elektronfelhőkben. Fémes kötés: pozitív fémiontörzsek a közöttük szabadabban mozgó elektronok közös elektronrendszerében. Síkbeli vázlat, nem arányos.</desc><defs><marker id="mb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#196c9c"/></marker><marker id="mr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b74d2f"/></marker><marker id="mt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#243747"/></marker><marker id="mg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#62788a"/></marker><marker id="mn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3f7d4f"/></marker></defs>
+<g font-family="DejaVu Sans, sans-serif">
+<rect width="720" height="1110" rx="16" fill="#fffdf8"/>
+<text x="360" y="48" font-size="32" font-weight="700" text-anchor="middle" fill="#243747">Három kötéstípus</text>
+<rect x="24" y="78" width="672" height="320" rx="10" fill="#f3f6f8" stroke="#d5dfe5" stroke-width="2"/>
+<text x="48" y="120" font-size="28" font-weight="700" text-anchor="start" fill="#b74d2f">Ionos kötés</text>
+<text x="48" y="156" font-size="24" font-weight="400" text-anchor="start" fill="#243747">ellentétes töltésű ionok vonzása</text>
+<circle cx="92" cy="213" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="92" y="222" font-size="26" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="158" cy="213" r="28" fill="#bcdaee" stroke="#196c9c" stroke-width="2"/>
+<text x="158" y="222" font-size="26" font-weight="700" text-anchor="middle" fill="#196c9c">−</text>
+<circle cx="224" cy="213" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="224" y="222" font-size="26" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="290" cy="213" r="28" fill="#bcdaee" stroke="#196c9c" stroke-width="2"/>
+<text x="290" y="222" font-size="26" font-weight="700" text-anchor="middle" fill="#196c9c">−</text>
+<circle cx="356" cy="213" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="356" y="222" font-size="26" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="92" cy="279" r="28" fill="#bcdaee" stroke="#196c9c" stroke-width="2"/>
+<text x="92" y="288" font-size="26" font-weight="700" text-anchor="middle" fill="#196c9c">−</text>
+<circle cx="158" cy="279" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="158" y="288" font-size="26" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="224" cy="279" r="28" fill="#bcdaee" stroke="#196c9c" stroke-width="2"/>
+<text x="224" y="288" font-size="26" font-weight="700" text-anchor="middle" fill="#196c9c">−</text>
+<circle cx="290" cy="279" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="290" y="288" font-size="26" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="356" cy="279" r="28" fill="#bcdaee" stroke="#196c9c" stroke-width="2"/>
+<text x="356" y="288" font-size="26" font-weight="700" text-anchor="middle" fill="#196c9c">−</text>
+<circle cx="458" cy="213" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="458" y="222" font-size="26" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<text x="490" y="206" font-size="23" font-weight="400" text-anchor="start" fill="#243747">pozitív ion</text>
+<text x="490" y="234" font-size="23" font-weight="400" text-anchor="start" fill="#243747">pl. Na⁺</text>
+<circle cx="458" cy="279" r="28" fill="#bcdaee" stroke="#196c9c" stroke-width="2"/>
+<text x="458" y="288" font-size="26" font-weight="700" text-anchor="middle" fill="#196c9c">−</text>
+<text x="500" y="272" font-size="23" font-weight="400" text-anchor="start" fill="#243747">negatív ion</text>
+<text x="500" y="300" font-size="23" font-weight="400" text-anchor="start" fill="#243747">pl. Cl⁻</text>
+<text x="48" y="374" font-size="24" font-weight="400" text-anchor="start" fill="#243747">pl. konyhasó: szabályos ionrács</text>
+<rect x="24" y="418" width="672" height="320" rx="10" fill="#f3f6f8" stroke="#d5dfe5" stroke-width="2"/>
+<text x="48" y="460" font-size="28" font-weight="700" text-anchor="start" fill="#3f7d4f">Kovalens kötés</text>
+<text x="48" y="496" font-size="24" font-weight="400" text-anchor="start" fill="#243747">két atom közös elektronpárja</text>
+<circle cx="185" cy="603" r="72" fill="#dcebd9" fill-opacity="0.7" stroke="#3f7d4f" stroke-width="2"/>
+<circle cx="295" cy="603" r="72" fill="#dcebd9" fill-opacity="0.7" stroke="#3f7d4f" stroke-width="2"/>
+<circle cx="185" cy="603" r="9" fill="#243747" stroke="none" stroke-width="2"/>
+<circle cx="295" cy="603" r="9" fill="#243747" stroke="none" stroke-width="2"/>
+<circle cx="240" cy="587" r="7" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="240" cy="619" r="7" fill="#196c9c" stroke="none" stroke-width="2"/>
+<path d="M252 599 L455 563" fill="none" stroke="#62788a" stroke-width="2"/>
+<text x="462" y="557" font-size="24" font-weight="700" text-anchor="start" fill="#243747">közös</text>
+<text x="462" y="587" font-size="24" font-weight="700" text-anchor="start" fill="#243747">elektronpár</text>
+<path d="M301 609 L455 655" fill="none" stroke="#62788a" stroke-width="2"/>
+<text x="462" y="663" font-size="23" font-weight="400" text-anchor="start" fill="#243747">atommag</text>
+<text x="48" y="714" font-size="24" font-weight="400" text-anchor="start" fill="#243747">pl. a vízmolekulán belül az O és a H között</text>
+<rect x="24" y="758" width="672" height="320" rx="10" fill="#f3f6f8" stroke="#d5dfe5" stroke-width="2"/>
+<text x="48" y="800" font-size="28" font-weight="700" text-anchor="start" fill="#196c9c">Fémes kötés</text>
+<text x="48" y="836" font-size="24" font-weight="400" text-anchor="start" fill="#243747">fémiontörzsek közös elektronrendszerben</text>
+<rect x="48" y="858" width="352" height="176" rx="8" fill="#fbeec2" stroke="#d9b54a" stroke-width="2"/>
+<circle cx="88" cy="890" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="88" y="899" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="156" cy="890" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="156" y="899" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="224" cy="890" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="224" y="899" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="292" cy="890" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="292" y="899" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="360" cy="890" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="360" y="899" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="88" cy="946" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="88" y="955" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="156" cy="946" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="156" y="955" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="224" cy="946" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="224" y="955" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="292" cy="946" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="292" y="955" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="360" cy="946" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="360" y="955" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="88" cy="1002" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="88" y="1011" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="156" cy="1002" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="156" y="1011" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="224" cy="1002" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="224" y="1011" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="292" cy="1002" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="292" y="1011" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="360" cy="1002" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="360" y="1011" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<circle cx="122" cy="890" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="190" cy="918" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="258" cy="890" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="326" cy="946" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="122" cy="974" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="190" cy="1002" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="258" cy="974" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="326" cy="1002" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="156" cy="974" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="292" cy="918" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="88" cy="918" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="360" cy="974" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<circle cx="440" cy="898" r="19" fill="#f6c7b5" stroke="#b74d2f" stroke-width="2"/>
+<text x="440" y="907" font-size="24" font-weight="700" text-anchor="middle" fill="#b74d2f">+</text>
+<text x="472" y="906" font-size="23" font-weight="400" text-anchor="start" fill="#243747">fémiontörzs</text>
+<circle cx="440" cy="963" r="6" fill="#196c9c" stroke="none" stroke-width="2"/>
+<text x="472" y="957" font-size="23" font-weight="400" text-anchor="start" fill="#243747">szabadabban</text>
+<text x="472" y="985" font-size="23" font-weight="400" text-anchor="start" fill="#243747">mozgó elektron</text>
+<text x="48" y="1060" font-size="24" font-weight="400" text-anchor="start" fill="#243747">pl. rézhuzal</text>
+<text x="360" y="1100" font-size="22" font-weight="400" text-anchor="middle" fill="#62788a">Síkbeli vázlat: a méretek és távolságok nem arányosak.</text>
+</g></svg>

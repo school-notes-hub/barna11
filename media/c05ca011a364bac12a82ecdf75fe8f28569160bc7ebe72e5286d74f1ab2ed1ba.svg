@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-labelledby="title desc"><title id="title">Azonos eredő, más helyen</title><desc id="desc">Két 3 m hosszú szakasz azonos léptékben. Felül egyenletes 2 kN/m teher, eredője 6 kN a kezdőponttól 1,5 m-re. Alul 0-ról 4 kN/m-re növekvő háromszögteher, eredője szintén 6 kN, de a nulla intenzitású végtől 2 m-re.</desc><defs><marker id="ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#243746" stroke-width="1.8"/></marker><marker id="force" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#c43d42" stroke-width="1.8"/></marker><marker id="res" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#16816b" stroke-width="1.8"/></marker><marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#2a64a8" stroke-width="1.8"/></marker><marker id="ax" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#546b80" stroke-width="1.8"/></marker><marker id="brown" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9" fill="none" stroke="#b5651d" stroke-width="1.8"/></marker></defs><rect width="720" height="720" rx="18" fill="#f5f9fc"/>
+<text x="28.0" y="44.0" font-family="Arial, sans-serif" font-size="28" fill="#243746" font-weight="700">Azonos eredő, más helyen</text>
+<text x="28.0" y="80.0" font-family="Arial, sans-serif" font-size="23" fill="#243746">Mindkét szakasz 3 m hosszú, az eredő mindkét esetben 6 kN.</text>
+<text x="28.0" y="136.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">1. Egyenletes teher</text>
+<rect x="120" y="246.0" width="450.0" height="44.0" fill="#f6e3e4" stroke="#c43d42" stroke-width="2"/>
+<line x1="120.0" y1="246.0" x2="120.0" y2="288.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="195.0" y1="246.0" x2="195.0" y2="288.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="270.0" y1="246.0" x2="270.0" y2="288.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="345.0" y1="246.0" x2="345.0" y2="288.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="420.0" y1="246.0" x2="420.0" y2="288.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="495.0" y1="246.0" x2="495.0" y2="288.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="570.0" y1="246.0" x2="570.0" y2="288.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<text x="584.0" y="268.0" font-family="Arial, sans-serif" font-size="23" fill="#c43d42">q = 2 kN/m</text>
+<line x1="345.0" y1="165.0" x2="345.0" y2="287.0" stroke="#16816b" stroke-width="4.5" marker-end="url(#res)"/>
+<text x="357.0" y="190.0" font-family="Arial, sans-serif" font-size="24" fill="#16816b" font-weight="700">Q = 6 kN</text>
+<line x1="120.0" y1="290.0" x2="570.0" y2="290.0" stroke="#243746" stroke-width="4"/><circle cx="120" cy="290" r="5" fill="#243746"/>
+<line x1="120.0" y1="328.0" x2="345.0" y2="328.0" stroke="#546b80" stroke-width="1.6"/><line x1="120.0" y1="320.0" x2="120.0" y2="336.0" stroke="#546b80" stroke-width="1.6"/><line x1="345.0" y1="320.0" x2="345.0" y2="336.0" stroke="#546b80" stroke-width="1.6"/><text x="232.5" y="320.0" font-family="Arial, sans-serif" font-size="23" fill="#546b80" text-anchor="middle">1,5 m</text>
+<line x1="120.0" y1="372.0" x2="570.0" y2="372.0" stroke="#546b80" stroke-width="1.6"/><line x1="120.0" y1="364.0" x2="120.0" y2="380.0" stroke="#546b80" stroke-width="1.6"/><line x1="570.0" y1="364.0" x2="570.0" y2="380.0" stroke="#546b80" stroke-width="1.6"/><text x="345.0" y="364.0" font-family="Arial, sans-serif" font-size="23" fill="#546b80" text-anchor="middle">3 m</text>
+<line x1="28.0" y1="410.0" x2="692.0" y2="410.0" stroke="#bac9d2" stroke-width="1"/>
+<text x="28.0" y="452.0" font-family="Arial, sans-serif" font-size="24" fill="#243746" font-weight="700">2. Háromszögteher 0-ról 4 kN/m-re</text>
+<polygon points="120,615 570.0,615 570.0,527.0" fill="#f6e3e4" stroke="#c43d42" stroke-width="2"/>
+<line x1="195.0" y1="600.3" x2="195.0" y2="613.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="270.0" y1="585.7" x2="270.0" y2="613.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="345.0" y1="571.0" x2="345.0" y2="613.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="420.0" y1="556.3" x2="420.0" y2="613.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="495.0" y1="541.7" x2="495.0" y2="613.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<line x1="570.0" y1="527.0" x2="570.0" y2="613.0" stroke="#c43d42" stroke-width="2" marker-end="url(#force)"/>
+<text x="582.0" y="535.0" font-family="Arial, sans-serif" font-size="23" fill="#c43d42">4 kN/m</text>
+<line x1="420.0" y1="490.0" x2="420.0" y2="612.0" stroke="#16816b" stroke-width="4.5" marker-end="url(#res)"/>
+<text x="408.0" y="515.0" font-family="Arial, sans-serif" font-size="24" fill="#16816b" font-weight="700" text-anchor="end">Q = 6 kN</text>
+<line x1="120.0" y1="615.0" x2="570.0" y2="615.0" stroke="#243746" stroke-width="4"/><circle cx="120" cy="615" r="5" fill="#243746"/>
+<line x1="120.0" y1="653.0" x2="420.0" y2="653.0" stroke="#546b80" stroke-width="1.6"/><line x1="120.0" y1="645.0" x2="120.0" y2="661.0" stroke="#546b80" stroke-width="1.6"/><line x1="420.0" y1="645.0" x2="420.0" y2="661.0" stroke="#546b80" stroke-width="1.6"/><text x="270.0" y="645.0" font-family="Arial, sans-serif" font-size="23" fill="#546b80" text-anchor="middle">2 m</text>
+<line x1="120.0" y1="697.0" x2="570.0" y2="697.0" stroke="#546b80" stroke-width="1.6"/><line x1="120.0" y1="689.0" x2="120.0" y2="705.0" stroke="#546b80" stroke-width="1.6"/><line x1="570.0" y1="689.0" x2="570.0" y2="705.0" stroke="#546b80" stroke-width="1.6"/><text x="345.0" y="689.0" font-family="Arial, sans-serif" font-size="23" fill="#546b80" text-anchor="middle">3 m</text>
+</svg>
