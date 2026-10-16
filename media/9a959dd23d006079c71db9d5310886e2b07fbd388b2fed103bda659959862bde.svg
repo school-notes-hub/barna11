@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480"><title>A trapéz területe a középvonallal</title><rect width="760" height="480" fill="#ffffff"/>
+<polygon points="150.9,347.8 204.8,347.8 204.8,240.0" fill="#e65100" fill-opacity="0.3" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="204.8,240.0 204.8,132.2 258.7,132.2" fill="#e65100" fill-opacity="0.3" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="609.1,347.8 690.0,347.8 609.1,240.0" fill="#e65100" fill-opacity="0.3" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="609.1,240.0 528.3,132.2 609.1,132.2" fill="#e65100" fill-opacity="0.3" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="150.9,347.8 690.0,347.8 528.3,132.2 258.7,132.2" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="204.8,347.8 609.1,347.8 609.1,132.2 204.8,132.2" fill="none" stroke="#c62828" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="9 6"/>
+<line x1="204.8" y1="240.0" x2="609.1" y2="240.0" stroke="#1565c0" stroke-width="3" stroke-linecap="round"/>
+<circle cx="204.8" cy="240.0" r="5" fill="#1565c0" stroke="#1565c0" stroke-width="2"/>
+<circle cx="609.1" cy="240.0" r="5" fill="#1565c0" stroke="#1565c0" stroke-width="2"/>
+<text x="420.4" y="384.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433" font-style="italic">a</text>
+<text x="393.5" y="116.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433" font-style="italic">c</text>
+<text x="407.0" y="224.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1565c0" font-style="italic">k</text>
+<line x1="107.7" y1="347.8" x2="107.7" y2="132.2" stroke="#1d2433" stroke-width="2" stroke-linecap="round"/>
+<text x="97.7" y="248.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="end" fill="#1d2433" font-style="italic">m</text>
+</svg>

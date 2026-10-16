@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="470" viewBox="0 0 840 470"><title>cos négyzet egyenletek az egységkörön</title><rect width="840" height="470" fill="#ffffff"/>
+<line x1="43.3" y1="255.0" x2="376.7" y2="255.0" stroke="#1d2433" stroke-width="2" stroke-linecap="round"/>
+<line x1="210.0" y1="421.7" x2="210.0" y2="88.3" stroke="#1d2433" stroke-width="2" stroke-linecap="round"/>
+<circle cx="210.0" cy="255.0" r="133.3" fill="none" stroke="#1d2433" stroke-width="3"/>
+<line x1="325.5" y1="415.0" x2="325.5" y2="95.0" stroke="#90a4ae" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="94.5" y1="415.0" x2="94.5" y2="95.0" stroke="#90a4ae" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="210.0" y1="255.0" x2="325.5" y2="188.3" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="325.5" cy="188.3" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<text x="352.0" y="182.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">30°</text>
+<line x1="210.0" y1="255.0" x2="94.5" y2="188.3" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="94.5" cy="188.3" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<text x="68.0" y="182.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">150°</text>
+<line x1="210.0" y1="255.0" x2="94.5" y2="321.7" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="94.5" cy="321.7" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<text x="68.0" y="346.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">210°</text>
+<line x1="210.0" y1="255.0" x2="325.5" y2="321.7" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="325.5" cy="321.7" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<text x="352.0" y="346.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">330°</text>
+<text x="210.0" y="39.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#1d2433">cos²α = 3/4</text>
+<line x1="463.3" y1="255.0" x2="796.7" y2="255.0" stroke="#1d2433" stroke-width="2" stroke-linecap="round"/>
+<line x1="630.0" y1="421.7" x2="630.0" y2="88.3" stroke="#1d2433" stroke-width="2" stroke-linecap="round"/>
+<circle cx="630.0" cy="255.0" r="133.3" fill="none" stroke="#1d2433" stroke-width="3"/>
+<line x1="630.0" y1="255.0" x2="763.3" y2="255.0" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="763.3" cy="255.0" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<text x="794.0" y="264.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">0°</text>
+<line x1="630.0" y1="255.0" x2="496.7" y2="255.0" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="496.7" cy="255.0" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<text x="466.0" y="264.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">180°</text>
+<text x="630.0" y="39.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#1d2433">cos²α = 1</text>
+</svg>

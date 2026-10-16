@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470"><title>Szögek három oldalból</title><rect width="880" height="470" fill="#ffffff"/>
+<circle cx="107.3" cy="255.0" r="83.2" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-dasharray="7 5"/>
+<circle cx="308.3" cy="255.0" r="107.6" fill="none" stroke="#2e7d32" stroke-width="2.5" stroke-dasharray="7 5"/>
+<line x1="107.3" y1="255.0" x2="308.3" y2="255.0" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="107.3" cy="255.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<circle cx="308.3" cy="255.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="207.8" y="291.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">9,9 cm</text>
+<text x="107.3" y="167.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1565c0">4,1</text>
+<text x="308.3" y="143.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#2e7d32">5,3</text>
+<text x="10.0" y="44.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="bold" text-anchor="start" fill="#1d2433">a) nincs háromszög</text>
+<polygon points="589.2,425.0 730.8,425.0 589.2,85.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 613.2 425.0 A 24.0 24.0 0 0 0 589.2 401.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="597.7" cy="416.5" r="3.2" fill="#1d2433"/>
+<path d="M 589.2 130.5 A 45.5 45.5 0 0 0 606.7 127.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="603.1" y="164.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">α</text>
+<path d="M 721.1 401.6 A 25.3 25.3 0 0 0 705.5 425.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="692.9" y="409.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">β</text>
+<text x="660.0" y="461.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">14 m</text>
+<text x="579.2" y="265.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="end" fill="#1d2433">33,6 m</text>
+<text x="683.4" y="255.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">36,4 m</text>
+<text x="450.0" y="44.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="bold" text-anchor="start" fill="#1d2433">b)</text>
+</svg>

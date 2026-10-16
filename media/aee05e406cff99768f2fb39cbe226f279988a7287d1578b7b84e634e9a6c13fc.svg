@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="600" viewBox="0 0 620 600"><title>Húr és középponti szög 132,6 fok</title><rect width="620" height="600" fill="#ffffff"/>
+<circle cx="310.0" cy="300.0" r="225.6" fill="none" stroke="#1d2433" stroke-width="3"/>
+<polygon points="310.0,300.0 103.4,209.3 516.6,209.3" fill="#1565c0" fill-opacity="0.1" stroke="#1d2433" stroke-width="3" stroke-linejoin="round"/>
+<line x1="310.0" y1="300.0" x2="310.0" y2="209.3" stroke="#90a4ae" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 310.0 224.8 A 15.5 15.5 0 0 0 325.5 209.3" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="315.5" cy="214.8" r="3.2" fill="#1d2433"/>
+<path d="M 338.4 287.5 A 31.0 31.0 0 0 0 281.6 287.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="310.0" y="331.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">132,6°</text>
+<path d="M 357.3 279.2 A 51.6 51.6 0 0 0 310.0 248.4" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="355.2" y="237.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">66,3°</text>
+<path d="M 141.3 225.9 A 41.3 41.3 0 0 0 144.8 209.3" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="133.4" y="238.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#1d2433">23,7°</text>
+<circle cx="310.0" cy="300.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="294.0" y="295.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">O</text>
+<text x="206.7" y="196.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">6 cm</text>
+<text x="413.3" y="196.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">6 cm</text>
+<text x="420.2" y="277.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">r</text>
+<text x="302.0" y="262.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#1d2433" font-style="italic">d</text>
+</svg>

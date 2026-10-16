@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="460" viewBox="0 0 700 460"><title>Paralelogramma oldalakkal és átlóval</title><rect width="700" height="460" fill="#ffffff"/>
+<polygon points="103.8,400.0 559.7,400.0 596.2,60.0 140.3,60.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="103.8" y1="400.0" x2="596.2" y2="60.0" stroke="#c62828" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="559.7" y1="400.0" x2="140.3" y2="60.0" stroke="#90a4ae" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="9 6"/>
+<path d="M 146.5 400.0 A 42.7 42.7 0 0 0 108.3 357.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="162.1" y="355.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">83,87°</text>
+<path d="M 564.3 357.5 A 42.7 42.7 0 0 0 517.0 400.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="507.3" y="349.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">96,13°</text>
+<text x="331.7" y="434.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">32 cm</text>
+<text x="86.6" y="234.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">24 cm</text>
+<text x="384.7" y="182.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#c62828">42 cm</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="440" viewBox="0 0 680 440"><title>Területképlet levezetése</title><rect width="680" height="440" fill="#ffffff"/>
+<polygon points="70.0,367.4 276.5,367.4 276.5,72.6" fill="#1565c0" fill-opacity="0.12" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="70.0,367.4 610.0,367.4 276.5,72.6" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="276.5" y1="72.6" x2="276.5" y2="367.4" stroke="#1565c0" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 6"/>
+<path d="M 300.5 367.4 A 24.0 24.0 0 0 0 276.5 343.4" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<circle cx="285.0" cy="359.0" r="3.2" fill="#1565c0"/>
+<path d="M 119.5 367.4 A 49.5 49.5 0 0 0 98.4 326.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="137.9" y="339.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">γ</text>
+<text x="56.0" y="391.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1d2433">C</text>
+<text x="624.0" y="391.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1d2433">A</text>
+<text x="276.5" y="58.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1d2433">B</text>
+<text x="151.1" y="212.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">a</text>
+<text x="340.0" y="401.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433" font-style="italic">b</text>
+<text x="461.1" y="207.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">c</text>
+<text x="286.5" y="229.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#1565c0" font-style="italic">m<tspan font-size="18" dy="6">b</tspan></text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520"><title>Kör és körgyűrű</title><rect width="520" height="520" fill="#ffffff"/>
+<circle cx="260.0" cy="260.0" r="212.1" fill="#e65100" fill-opacity="0.35" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="260.0" cy="260.0" r="189.7" fill="#ffffff" stroke="#1565c0" stroke-width="2.5"/>
+<circle cx="260.0" cy="260.0" r="189.7" fill="#1565c0" fill-opacity="0.12" stroke="#1565c0" stroke-width="2.5"/>
+<line x1="260.0" y1="260.0" x2="438.3" y2="195.1" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="260.0" y1="260.0" x2="433.7" y2="381.6" stroke="#1d2433" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="260.0" cy="260.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="343.0" y="218.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1565c0">r</text>
+<text x="336.6" y="342.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">r + 5</text>
+<text x="225.1" y="69.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#e65100">5</text>
+</svg>

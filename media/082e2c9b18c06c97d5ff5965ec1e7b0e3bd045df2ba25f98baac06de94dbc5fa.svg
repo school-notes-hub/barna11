@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="620" viewBox="0 0 640 620"><title>Húr egy 8,4 cm sugarú körben</title><rect width="640" height="620" fill="#ffffff"/>
+<path d="M 132.0 444.0 A 235.0 235.0 0 0 0 508.0 444.0 Z" fill="#e65100" fill-opacity="0.35" stroke="none"/>
+<polygon points="320.0,303.0 132.0,444.0 508.0,444.0" fill="#1565c0" fill-opacity="0.12" stroke="#1d2433" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="320.0" cy="303.0" r="235.0" fill="none" stroke="#1d2433" stroke-width="3"/>
+<line x1="320.0" y1="303.0" x2="320.0" y2="444.0" stroke="#90a4ae" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 336.8 444.0 A 16.8 16.8 0 0 0 320.0 427.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="325.9" cy="438.1" r="3.2" fill="#1d2433"/>
+<path d="M 320.0 342.2 A 39.2 39.2 0 0 0 351.3 326.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="352.5" y="375.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">53,13°</text>
+<path d="M 173.9 444.0 A 42.0 42.0 0 0 0 165.6 418.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="206.3" y="426.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">36,87°</text>
+<path d="M 474.4 418.8 A 42.0 42.0 0 0 0 466.1 444.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="433.7" y="426.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">36,87°</text>
+<text x="320.0" y="284.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">106,26°</text>
+<circle cx="320.0" cy="303.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="302.0" y="306.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">O</text>
+<text x="116.0" y="459.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">A</text>
+<text x="524.0" y="459.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">B</text>
+<text x="226.0" y="475.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">6,72</text>
+<text x="414.0" y="475.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">6,72</text>
+<text x="214.2" y="365.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">8,4</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440"><title>Háromszög oldallal és súlyvonallal</title><rect width="720" height="440" fill="#ffffff"/>
+<polygon points="83.4,380.0 613.4,380.0 636.6,60.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="348.4" y1="380.0" x2="636.6" y2="60.0" stroke="#1565c0" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 6"/>
+<circle cx="348.4" cy="380.0" r="5" fill="#1565c0" stroke="#1565c0" stroke-width="2"/>
+<path d="M 392.6 380.0 A 44.2 44.2 0 0 0 378.0 347.2" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<text x="419.0" y="357.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1565c0">48°</text>
+<path d="M 615.8 347.0 A 33.1 33.1 0 0 0 580.3 380.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="574.3" y="346.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">β</text>
+<text x="69.4" y="404.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">A</text>
+<text x="627.4" y="404.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">B</text>
+<text x="636.6" y="46.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">C</text>
+<text x="348.4" y="412.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">F</text>
+<text x="215.9" y="414.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">24 cm</text>
+<text x="470.9" y="414.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">24 cm</text>
+<text x="486.4" y="193.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1565c0">39 cm</text>
+<text x="649.2" y="230.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">a</text>
+<text x="347.8" y="207.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">b</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560"><title>A kötélpálya három háromszöge</title><rect width="960" height="560" fill="#ffffff"/>
+<polygon points="80.0,402.2 260.0,402.2 80.0,172.8" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 104.0 402.2 A 24.0 24.0 0 0 0 80.0 378.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="88.5" cy="393.7" r="3.2" fill="#1d2433"/>
+<path d="M 239.0 375.5 A 34.0 34.0 0 0 0 226.0 402.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="270.0" y="397.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="start" fill="#1d2433">α</text>
+<text x="68.0" y="298.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="end" fill="#c62828">535</text>
+<text x="202.8" y="280.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="start" fill="#1565c0">680</text>
+<text x="10.0" y="41.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="start" fill="#1d2433">a)   α = ?</text>
+<polygon points="447.6,500.0 507.4,500.0 447.6,75.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 471.6 500.0 A 24.0 24.0 0 0 0 447.6 476.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="456.1" cy="491.5" r="3.2" fill="#1d2433"/>
+<path d="M 502.6 466.3 A 34.0 34.0 0 0 0 473.4 500.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="517.4" y="495.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="start" fill="#1d2433">82°</text>
+<text x="435.6" y="298.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="end" fill="#c62828">535</text>
+<text x="517.2" y="294.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="start" fill="#1565c0">x</text>
+<text x="330.0" y="41.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="start" fill="#1d2433">b)   x = ?</text>
+<polygon points="767.6,500.0 827.4,500.0 767.6,75.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 791.6 500.0 A 24.0 24.0 0 0 0 767.6 476.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="776.1" cy="491.5" r="3.2" fill="#1d2433"/>
+<path d="M 822.6 466.3 A 34.0 34.0 0 0 0 793.4 500.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="837.4" y="495.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="start" fill="#1d2433">82°</text>
+<text x="755.6" y="298.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="end" fill="#c62828">h</text>
+<text x="837.2" y="294.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="start" fill="#1565c0">680</text>
+<text x="650.0" y="41.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="start" fill="#1d2433">c)   h = ?</text>
+</svg>

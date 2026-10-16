@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="660" viewBox="0 0 660 660"><title>Három halmaz ismeretlen elemszámmal</title><rect width="660" height="660" fill="#ffffff"/>
+<polygon points="64.2,569.6 595.8,569.6 595.8,62.1 64.2,62.1" fill="none" stroke="#1d2433" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="251.5" cy="258.4" r="132.9" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="408.5" cy="258.4" r="132.9" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="330.0" cy="394.4" r="132.9" fill="none" stroke="#1d2433" stroke-width="3"/>
+<text x="203.1" y="220.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#c62828">x = 21</text>
+<text x="330.0" y="196.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">8</text>
+<text x="456.9" y="220.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#c62828">4x = 84</text>
+<text x="330.0" y="296.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">10</text>
+<text x="255.1" y="362.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">10</text>
+<text x="404.9" y="362.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">13</text>
+<text x="330.0" y="462.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#c62828">2x = 42</text>
+<text x="541.5" y="522.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">0</text>
+<text x="148.8" y="151.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1d2433">ŐSZ</text>
+<text x="499.1" y="151.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1d2433">TAVASZ</text>
+<text x="462.9" y="516.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1d2433">TÉL</text>
+<text x="20.0" y="37.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#1d2433">Alaphalmaz: 188 elem</text>
+<text x="330.0" y="607.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">x + 2x + 4x + 41 = 188  →  7x = 147  →  x = 21</text>
+</svg>

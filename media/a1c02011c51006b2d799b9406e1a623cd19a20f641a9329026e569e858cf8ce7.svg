@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560"><title>Hatszög három paralelogrammára bontva</title><rect width="720" height="560" fill="#ffffff"/>
+<polygon points="207.5,480.0 512.5,480.0 412.4,280.0 107.3,280.0" fill="#1565c0" fill-opacity="0.12" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="412.4,280.0 512.5,80.0 207.5,80.0 107.3,280.0" fill="#1565c0" fill-opacity="0.12" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="512.5,480.0 612.7,280.0 512.5,80.0 412.4,280.0" fill="#e65100" fill-opacity="0.18" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="207.5,480.0 512.5,480.0 612.7,280.0 512.5,80.0 207.5,80.0 107.3,280.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="412.4" y1="280.0" x2="512.5" y2="480.0" stroke="#1d2433" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="412.4" y1="280.0" x2="512.5" y2="80.0" stroke="#1d2433" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="412.4" y1="280.0" x2="107.3" y2="280.0" stroke="#1d2433" stroke-width="2.5" stroke-linecap="round"/>
+<text x="309.9" y="388.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1565c0">t₁</text>
+<text x="309.9" y="188.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1565c0">t₁</text>
+<text x="512.5" y="288.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#e65100">t₂</text>
+<text x="360.0" y="514.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">3 m</text>
+<text x="360.0" y="64.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">3 m</text>
+<text x="594.4" y="404.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">2,2 m</text>
+<text x="594.4" y="172.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">2,2 m</text>
+<text x="125.6" y="172.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">2,2 m</text>
+<text x="125.6" y="404.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">2,2 m</text>
+<path d="M 596.7 248.2 A 35.6 35.6 0 0 0 596.7 311.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="628.7" y="254.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#1d2433">126,8°</text>
+<path d="M 123.3 311.8 A 35.6 35.6 0 0 0 123.3 248.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="91.3" y="254.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#1d2433">126,8°</text>
+<path d="M 130.1 325.5 A 50.8 50.8 0 0 0 158.2 280.0" fill="none" stroke="#c62828" stroke-width="2.5"/>
+<text x="147.3" y="310.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#c62828">63,4°</text>
+<circle cx="412.4" cy="280.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="408.4" y="266.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">P</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800"><title>Egységkör a nevezetes szögekkel</title><rect width="800" height="800" fill="#ffffff"/>
+<line x1="53.3" y1="400.0" x2="738.0" y2="400.0" stroke="#1d2433" stroke-width="2.2"/>
+<polygon points="752.0,400.0 738.0,406.3 738.0,393.7" fill="#1d2433"/>
+<line x1="400.0" y1="746.7" x2="400.0" y2="62.0" stroke="#1d2433" stroke-width="2.2"/>
+<polygon points="400.0,48.0 406.3,62.0 393.7,62.0" fill="#1d2433"/>
+<circle cx="400.0" cy="400.0" r="266.7" fill="none" stroke="#1d2433" stroke-width="3"/>
+<polygon points="400.0,400.0 630.9,400.0 630.9,266.7" fill="#1565c0" fill-opacity="0.12" stroke="#1565c0" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 630.9 384.0 A 16.0 16.0 0 0 0 614.9 400.0" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<circle cx="625.3" cy="394.3" r="3.2" fill="#1565c0"/>
+<line x1="630.9" y1="266.7" x2="400.0" y2="266.7" stroke="#90a4ae" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="6 5"/>
+<line x1="588.6" y1="211.4" x2="400.0" y2="211.4" stroke="#90a4ae" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="6 5"/>
+<line x1="533.3" y1="169.1" x2="400.0" y2="169.1" stroke="#90a4ae" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="6 5"/>
+<circle cx="666.7" cy="400.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="724.0" y="426.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">0°</text>
+<circle cx="630.9" cy="266.7" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="670.2" y="252.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">30°</text>
+<circle cx="588.6" cy="211.4" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="620.6" y="187.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">45°</text>
+<circle cx="533.3" cy="169.1" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="556.0" y="138.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">60°</text>
+<circle cx="400.0" cy="133.3" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="426.0" y="100.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">90°</text>
+<circle cx="266.7" cy="169.1" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="244.0" y="138.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">120°</text>
+<circle cx="211.4" cy="211.4" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="179.4" y="187.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">135°</text>
+<circle cx="169.1" cy="266.7" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="129.8" y="252.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">150°</text>
+<circle cx="133.3" cy="400.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="76.0" y="426.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">180°</text>
+<circle cx="169.1" cy="533.3" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="129.8" y="564.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">210°</text>
+<circle cx="211.4" cy="588.6" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="179.4" y="629.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">225°</text>
+<circle cx="266.7" cy="630.9" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="244.0" y="678.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">240°</text>
+<circle cx="400.0" cy="666.7" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="426.0" y="720.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">270°</text>
+<circle cx="533.3" cy="630.9" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="556.0" y="678.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">300°</text>
+<circle cx="588.6" cy="588.6" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="620.6" y="629.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">315°</text>
+<circle cx="630.9" cy="533.3" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="670.2" y="564.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">330°</text>
+<text x="392.0" y="275.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#90a4ae">1/2</text>
+<text x="392.0" y="219.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#90a4ae">√2/2</text>
+<text x="392.0" y="177.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#90a4ae">√3/2</text>
+<text x="515.5" y="430.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1565c0">cos 30°</text>
+<text x="624.9" y="342.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="end" fill="#1565c0">sin 30°</text>
+<text x="392.0" y="127.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#1d2433">1</text>
+<text x="746.7" y="389.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">+</text>
+<text x="58.7" y="389.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">−</text>
+<text x="382.0" y="62.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">+</text>
+<text x="382.0" y="750.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">−</text>
+</svg>

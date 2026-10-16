@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460"><title>Két háromszög 60 négyzetcentiméter területtel</title><rect width="760" height="460" fill="#ffffff"/>
+<path d="M 672.9 338.1 A 331.1 331.1 0 0 0 20.7 338.1" fill="none" stroke="#90a4ae" stroke-width="2" stroke-dasharray="6 6"/>
+<line x1="346.8" y1="395.6" x2="346.8" y2="64.4" stroke="#90a4ae" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="9 6"/>
+<line x1="346.8" y1="64.4" x2="700.0" y2="395.6" stroke="#90a4ae" stroke-width="2" stroke-linecap="round" stroke-dasharray="9 6"/>
+<path d="M 368.9 395.6 A 22.1 22.1 0 0 0 346.8 373.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="354.6" cy="387.8" r="3.2" fill="#1d2433"/>
+<polygon points="346.8,395.6 700.0,395.6 633.6,230.0" fill="none" stroke="#c62828" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="346.8,395.6 700.0,395.6 60.0,230.0" fill="none" stroke="#1565c0" stroke-width="3.5" stroke-linejoin="round"/>
+<circle cx="60.0" cy="230.0" r="5" fill="#1565c0" stroke="#1565c0" stroke-width="2"/>
+<circle cx="633.6" cy="230.0" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<path d="M 395.3 395.6 A 48.6 48.6 0 0 0 388.8 371.3" fill="none" stroke="#c62828" stroke-width="2.5"/>
+<text x="419.3" y="384.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#c62828">30°</text>
+<path d="M 377.7 395.6 A 30.9 30.9 0 0 0 320.0 380.1" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<text x="320.3" y="358.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1565c0">150°</text>
+<text x="523.4" y="430.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">16</text>
+<text x="40.0" y="226.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#1565c0">1.</text>
+<text x="651.6" y="226.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#c62828">2.</text>
+<text x="358.8" y="66.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#90a4ae">Tmax = 120 (90°)</text>
+<text x="494.6" y="296.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#c62828">15</text>
+</svg>

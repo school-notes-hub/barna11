@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560"><title>Térképvázlat négy várossal</title><rect width="760" height="560" fill="#ffffff"/>
+<polygon points="220.5,184.4 590.6,83.1 630.0,403.8 110.0,476.9" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="110.0" y1="476.9" x2="590.6" y2="83.1" stroke="#c62828" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M 207.7 218.4 A 36.4 36.4 0 0 0 255.6 174.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="269.4" y="246.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">126°</text>
+<path d="M 625.6 367.7 A 36.4 36.4 0 0 0 594.0 408.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="575.5" y="370.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">91°</text>
+<text x="210.5" y="170.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">Tatabánya</text>
+<text x="590.6" y="69.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">Miskolc</text>
+<text x="630.0" y="438.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">Békéscsaba</text>
+<text x="110.0" y="511.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2433">Kaposvár</text>
+<text x="398.1" y="115.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">190 km</text>
+<text x="638.4" y="248.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">160 km</text>
+<text x="373.9" y="477.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">260 km</text>
+<circle cx="220.5" cy="184.4" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<circle cx="590.6" cy="83.1" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<circle cx="630.0" cy="403.8" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<circle cx="110.0" cy="476.9" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+</svg>

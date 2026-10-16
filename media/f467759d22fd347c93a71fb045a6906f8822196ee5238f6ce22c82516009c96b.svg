@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="520" viewBox="0 0 560 520"><title>Egységkör, sin 0,6 és cos 0,8</title><rect width="560" height="520" fill="#ffffff"/>
+<line x1="64.6" y1="260.0" x2="481.4" y2="260.0" stroke="#1d2433" stroke-width="2.2"/>
+<polygon points="495.4,260.0 481.4,266.3 481.4,253.7" fill="#1d2433"/>
+<line x1="275.4" y1="470.8" x2="275.4" y2="54.0" stroke="#1d2433" stroke-width="2.2"/>
+<polygon points="275.4,40.0 281.7,54.0 269.1,54.0" fill="#1d2433"/>
+<circle cx="275.4" cy="260.0" r="183.3" fill="none" stroke="#1d2433" stroke-width="3"/>
+<polygon points="275.4,260.0 422.1,260.0 422.1,150.0" fill="#1565c0" fill-opacity="0.12" stroke="#1565c0" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 422.1 245.3 A 14.7 14.7 0 0 0 407.4 260.0" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<circle cx="416.9" cy="254.8" r="3.2" fill="#1565c0"/>
+<path d="M 312.1 260.0 A 36.7 36.7 0 0 0 304.7 238.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="331.1" y="248.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">α</text>
+<text x="339.9" y="200.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1d2433">1</text>
+<text x="430.1" y="212.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#1565c0">0,6</text>
+<text x="348.8" y="291.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#1565c0">0,8</text>
+<text x="412.9" y="92.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#1d2433">r = 1</text>
+</svg>

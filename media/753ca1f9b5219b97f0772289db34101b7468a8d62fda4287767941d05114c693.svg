@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="430" viewBox="0 0 700 430"><title>Derékszögű háromszög a, b, c oldallal és α szöggel</title><rect width="700" height="430" fill="#ffffff"/>
+<line x1="70.0" y1="353.8" x2="440.0" y2="353.8" stroke="#2e7d32" stroke-width="5" stroke-linecap="round"/>
+<line x1="70.0" y1="353.8" x2="70.0" y2="76.2" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+<line x1="440.0" y1="353.8" x2="70.0" y2="76.2" stroke="#1565c0" stroke-width="5" stroke-linecap="round"/>
+<path d="M 94.0 353.8 A 24.0 24.0 0 0 0 70.0 329.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="78.5" cy="345.3" r="3.2" fill="#1d2433"/>
+<path d="M 388.2 314.9 A 64.8 64.8 0 0 0 375.2 353.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="353.9" y="334.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#1d2433">α</text>
+<text x="40.4" y="224.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#c62828" font-style="italic">a</text>
+<text x="255.0" y="398.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#2e7d32" font-style="italic">b</text>
+<text x="278.1" y="192.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#1565c0" font-style="italic">c</text>
+<text x="455.0" y="148.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#c62828">a: szemközti befogó</text>
+<text x="455.0" y="193.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#2e7d32">b: melletti befogó</text>
+<text x="455.0" y="238.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#1565c0">c: átfogó</text>
+<text x="455.0" y="297.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2433">(az α szöghöz képest)</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400"><title>Árnyékból a magasság</title><rect width="720" height="400" fill="#ffffff"/>
+<line x1="132.0" y1="300.6" x2="694.1" y2="300.6" stroke="#1d2433" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="176.1" y1="300.6" x2="650.0" y2="300.6" stroke="#90a4ae" stroke-width="6" stroke-linecap="round"/>
+<line x1="176.1" y1="300.6" x2="189.3" y2="212.4" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<line x1="176.1" y1="300.6" x2="162.9" y2="212.4" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<line x1="176.1" y1="212.4" x2="176.1" y2="140.8" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<line x1="176.1" y1="151.8" x2="203.7" y2="195.9" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<line x1="176.1" y1="151.8" x2="148.6" y2="195.9" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<circle cx="176.1" cy="119.8" r="20.9" fill="none" stroke="#1d2433" stroke-width="3"/>
+<line x1="176.1" y1="99.4" x2="650.0" y2="300.6" stroke="#e65100" stroke-width="3" stroke-linecap="round"/>
+<path d="M 200.1 300.6 A 24.0 24.0 0 0 0 176.1 276.6" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="184.6" cy="292.1" r="3.2" fill="#1d2433"/>
+<path d="M 573.9 268.3 A 82.7 82.7 0 0 0 567.3 300.6" fill="none" stroke="#e65100" stroke-width="2.5"/>
+<text x="525.8" y="283.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#e65100">23°</text>
+<line x1="126.5" y1="300.6" x2="126.5" y2="99.4" stroke="#1d2433" stroke-width="2" stroke-linecap="round"/>
+<text x="116.5" y="208.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#1d2433" font-style="italic">x</text>
+<text x="413.1" y="337.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">4,3 m (árnyék)</text>
+</svg>

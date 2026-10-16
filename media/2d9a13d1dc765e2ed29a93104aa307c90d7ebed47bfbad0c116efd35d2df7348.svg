@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="480" viewBox="0 0 820 480"><title>A Mars-szonda radarja</title><rect width="820" height="480" fill="#ffffff"/>
+<line x1="60.0" y1="364.6" x2="121.8" y2="364.6" stroke="#795548" stroke-width="3" stroke-linecap="round"/>
+<line x1="121.8" y1="364.6" x2="700.2" y2="94.8" stroke="#795548" stroke-width="4" stroke-linecap="round"/>
+<line x1="121.8" y1="364.6" x2="739.4" y2="364.6" stroke="#90a4ae" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 6"/>
+<line x1="121.8" y1="328.5" x2="739.4" y2="328.5" stroke="#90a4ae" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 6"/>
+<line x1="121.8" y1="364.6" x2="121.8" y2="328.5" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+<line x1="121.8" y1="328.5" x2="700.2" y2="94.8" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="9 6"/>
+<circle cx="700.2" cy="94.8" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<path d="M 307.1 364.6 A 185.3 185.3 0 0 0 289.7 286.3" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="373.0" y="318.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#1d2433">25°</text>
+<path d="M 430.6 328.5 A 308.8 308.8 0 0 0 408.1 212.9" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<text x="505.8" y="263.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#1565c0">22°</text>
+<path d="M 159.1 347.2 A 41.2 41.2 0 0 0 121.8 323.4" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="157.2" y="318.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#1d2433">65°</text>
+<text x="708.2" y="98.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="start" fill="#1d2433">3°</text>
+<text x="111.8" y="326.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="end" fill="#1d2433">112°</text>
+<text x="482.7" y="242.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#1d2433">31 m</text>
+<text x="111.8" y="356.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="end" fill="#c62828" font-style="italic">x</text>
+<text x="710.2" y="77.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">perem</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420"><title>A szinusztétel jelölései</title><rect width="640" height="420" fill="#ffffff"/>
+<line x1="70.0" y1="360.0" x2="255.7" y2="60.0" stroke="#c62828" stroke-width="4" stroke-linecap="round"/>
+<line x1="255.7" y1="60.0" x2="570.0" y2="360.0" stroke="#2e7d32" stroke-width="4" stroke-linecap="round"/>
+<line x1="70.0" y1="360.0" x2="570.0" y2="360.0" stroke="#1565c0" stroke-width="4" stroke-linecap="round"/>
+<path d="M 533.8 325.5 A 50.0 50.0 0 0 0 520.0 360.0" fill="none" stroke="#c62828" stroke-width="2.5"/>
+<text x="497.1" y="338.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#c62828">α</text>
+<path d="M 120.0 360.0 A 50.0 50.0 0 0 0 96.3 317.5" fill="none" stroke="#2e7d32" stroke-width="2.5"/>
+<text x="138.6" y="329.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#2e7d32">β</text>
+<path d="M 233.2 96.4 A 42.9 42.9 0 0 0 286.7 89.6" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<text x="264.8" y="138.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1565c0">γ</text>
+<text x="138.6" y="203.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#c62828">a</text>
+<text x="432.6" y="197.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#2e7d32">b</text>
+<text x="320.0" y="396.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1565c0">c</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="560" viewBox="0 0 780 560"><title>A téglatest testátlója</title><rect width="780" height="560" fill="#ffffff"/>
+<line x1="70.0" y1="455.2" x2="483.3" y2="455.2" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="483.3" y1="455.2" x2="710.0" y2="296.5" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="70.0" y1="455.2" x2="70.0" y2="263.5" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="483.3" y1="455.2" x2="483.3" y2="263.5" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="710.0" y1="296.5" x2="710.0" y2="104.8" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="70.0" y1="263.5" x2="483.3" y2="263.5" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="483.3" y1="263.5" x2="710.0" y2="104.8" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="710.0" y1="104.8" x2="296.7" y2="104.8" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="296.7" y1="104.8" x2="70.0" y2="263.5" stroke="#1d2433" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="70.0" y1="455.2" x2="296.7" y2="296.5" stroke="#90a4ae" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="296.7" y1="296.5" x2="710.0" y2="296.5" stroke="#90a4ae" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="296.7" y1="296.5" x2="296.7" y2="104.8" stroke="#90a4ae" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="483.3" y1="455.2" x2="710.0" y2="104.8" stroke="#c62828" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="710.0" y1="104.8" x2="296.7" y2="104.8" stroke="#c62828" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="483.3" y1="455.2" x2="296.7" y2="104.8" stroke="#c62828" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M 668.1 104.8 A 41.9 41.9 0 0 0 687.2 140.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="691.6" cy="114.8" r="3.2" fill="#1d2433"/>
+<path d="M 548.4 354.6 A 119.8 119.8 0 0 0 427.0 349.5" fill="none" stroke="#c62828" stroke-width="2.5"/>
+<text x="490.4" y="296.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#c62828">α</text>
+<text x="56.0" y="482.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#1d2433">A</text>
+<text x="483.3" y="488.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#1d2433">B</text>
+<text x="728.0" y="319.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#1d2433">C</text>
+<text x="286.7" y="91.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#1d2433">P</text>
+<text x="732.0" y="101.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#1d2433">C*</text>
+<text x="50.0" y="262.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#1d2433">A*</text>
+<text x="276.7" y="490.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">6,9</text>
+<text x="620.7" y="398.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">8,4</text>
+<text x="60.0" y="368.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="end" fill="#1d2433">3,2</text>
+<text x="630.7" y="299.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#c62828">8,99</text>
+</svg>

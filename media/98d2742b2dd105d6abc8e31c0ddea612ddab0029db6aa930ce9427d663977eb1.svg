@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1050" viewBox="0 0 900 1050"><title>Két kör közös érintői</title><rect width="900" height="1050" fill="#ffffff"/>
+<line x1="69.6" y1="239.7" x2="342.7" y2="272.0" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="69.6" y1="140.3" x2="342.7" y2="108.0" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="127.7" y1="260.4" x2="284.6" y2="104.0" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="127.7" y1="119.6" x2="284.6" y2="276.0" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="120.0" cy="190.0" r="55.3" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="307.9" cy="190.0" r="77.4" fill="none" stroke="#1d2433" stroke-width="3"/>
+<text x="12.0" y="36.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#1d2433">1) egymáson kívül: 4</text>
+<circle cx="696.8" cy="190.0" r="92.8" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="711.2" cy="181.3" r="34.8" fill="none" stroke="#1d2433" stroke-width="3"/>
+<text x="462.0" y="36.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#1d2433">2) egyik a másikban: 0</text>
+<line x1="76.5" y1="593.8" x2="323.1" y2="635.4" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="76.5" y1="486.2" x2="323.1" y2="444.6" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="199.8" y1="653.5" x2="199.8" y2="426.5" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="136.7" cy="540.0" r="63.0" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="288.0" cy="540.0" r="88.3" fill="none" stroke="#1d2433" stroke-width="3"/>
+<text x="12.0" y="386.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#1d2433">3) kívülről érintik: 3</text>
+<line x1="765.6" y1="648.8" x2="765.6" y2="431.2" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="675.0" cy="540.0" r="90.6" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="723.3" cy="540.0" r="42.3" fill="none" stroke="#1d2433" stroke-width="3"/>
+<text x="462.0" y="386.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#1d2433">4) belülről érintik: 1</text>
+<line x1="337.6" y1="969.8" x2="562.4" y2="969.8" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="337.6" y1="810.2" x2="562.4" y2="810.2" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="395.6" cy="890.0" r="79.8" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="504.4" cy="890.0" r="79.8" fill="none" stroke="#1d2433" stroke-width="3"/>
+<text x="237.0" y="736.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#1d2433">5) metszik egymást: 2</text>
+</svg>

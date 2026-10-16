@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440"><title>Ugyanazok az adatok, más elhelyezés</title><rect width="880" height="440" fill="#ffffff"/>
+<polygon points="56.8,395.0 383.2,395.0 105.8,310.2" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 96.0 395.0 A 39.2 39.2 0 0 0 76.4 361.1" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="113.4" y="372.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">60°</text>
+<text x="220.0" y="431.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">10</text>
+<text x="64.4" y="353.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">3</text>
+<text x="251.2" y="340.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#c62828">x ≈ 8,9</text>
+<text x="10.0" y="44.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="bold" text-anchor="start" fill="#1d2433">1. közbezárt 60°</text>
+<line x1="499.1" y1="320.8" x2="635.3" y2="85.0" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<line x1="499.1" y1="320.8" x2="825.8" y2="320.8" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<circle cx="746.6" cy="320.8" r="74.2" fill="none" stroke="#c62828" stroke-width="2.5" stroke-dasharray="7 5"/>
+<circle cx="746.6" cy="320.8" r="5" fill="#c62828" stroke="#c62828" stroke-width="2"/>
+<line x1="746.6" y1="320.8" x2="561.0" y2="213.6" stroke="#90a4ae" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 5"/>
+<path d="M 528.8 320.8 A 29.7 29.7 0 0 0 514.0 295.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="542.0" y="306.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">60°</text>
+<text x="622.9" y="356.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#1d2433">10</text>
+<text x="801.1" y="276.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#c62828">3</text>
+<text x="663.7" y="260.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#90a4ae">≈ 8,66</text>
+<text x="450.0" y="44.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="bold" text-anchor="start" fill="#1d2433">2. szemközti 60°</text>
+</svg>

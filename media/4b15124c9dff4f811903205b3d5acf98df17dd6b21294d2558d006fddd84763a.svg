@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560"><title>Trapéz alakú telek</title><rect width="760" height="560" fill="#ffffff"/>
+<polygon points="70.0,483.8 690.0,483.8 690.0,76.2 188.4,76.2" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="188.4" y1="76.2" x2="690.0" y2="483.8" stroke="#1565c0" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 7"/>
+<line x1="188.4" y1="76.2" x2="188.4" y2="483.8" stroke="#90a4ae" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 690.0 459.8 A 24.0 24.0 0 0 0 666.0 483.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="681.5" cy="475.3" r="3.2" fill="#1d2433"/>
+<path d="M 666.0 76.2 A 24.0 24.0 0 0 0 690.0 100.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="681.5" cy="84.7" r="3.2" fill="#1d2433"/>
+<path d="M 212.4 483.8 A 24.0 24.0 0 0 0 188.4 459.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="196.9" cy="475.3" r="3.2" fill="#1d2433"/>
+<path d="M 117.5 483.8 A 47.5 47.5 0 0 0 83.3 438.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="140.6" y="439.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">73,8°</text>
+<path d="M 621.5 428.1 A 88.3 88.3 0 0 0 601.7 483.8" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<text x="562.0" y="447.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1565c0">39,1°</text>
+<text x="83.6" y="275.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">12,5 m</text>
+<text x="198.4" y="288.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="start" fill="#1d2433" font-style="italic">m</text>
+</svg>

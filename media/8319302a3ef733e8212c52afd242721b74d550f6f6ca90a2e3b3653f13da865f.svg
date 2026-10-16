@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="600" viewBox="0 0 620 600"><title>Húr egy 18 cm sugarú körben</title><rect width="620" height="600" fill="#ffffff"/>
+<path d="M 124.3 423.2 A 222.9 222.9 0 0 0 495.7 423.2" fill="none" stroke="#c62828" stroke-width="5"/>
+<path d="M 495.7 423.2 A 222.9 222.9 0 1 0 124.3 423.2" fill="none" stroke="#1565c0" stroke-width="3"/>
+<line x1="124.3" y1="423.2" x2="495.7" y2="423.2" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="310.0" y1="300.0" x2="124.3" y2="423.2" stroke="#1d2433" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="310.0" y1="300.0" x2="495.7" y2="423.2" stroke="#1d2433" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="310.0" y1="300.0" x2="310.0" y2="423.2" stroke="#90a4ae" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 327.3 423.2 A 17.3 17.3 0 0 0 310.0 405.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="316.1" cy="417.1" r="3.2" fill="#1d2433"/>
+<path d="M 310.0 343.3 A 43.3 43.3 0 0 0 346.1 324.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="342.8" y="368.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">α/2</text>
+<circle cx="310.0" cy="300.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="294.0" y="299.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">K</text>
+<text x="108.3" y="442.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">A</text>
+<text x="511.7" y="442.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">B</text>
+<text x="217.1" y="410.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">15</text>
+<text x="402.9" y="410.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">15</text>
+<text x="415.2" y="350.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">18</text>
+<text x="310.0" y="556.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#c62828">i₁</text>
+<text x="310.0" y="62.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1565c0">i₂</text>
+</svg>

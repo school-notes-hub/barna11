@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="380" viewBox="0 0 620 380"><title>Társszögek két párhuzamos között</title><rect width="620" height="380" fill="#ffffff"/>
+<line x1="40.0" y1="298.0" x2="580.0" y2="298.0" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<line x1="40.0" y1="136.0" x2="580.0" y2="136.0" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<line x1="133.3" y1="347.6" x2="352.6" y2="86.4" stroke="#1565c0" stroke-width="3" stroke-linecap="round"/>
+<path d="M 212.8 298.0 A 37.8 37.8 0 0 0 199.3 269.0" fill="none" stroke="#c62828" stroke-width="2.5"/>
+<text x="228.8" y="280.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#c62828">α</text>
+<path d="M 286.6 165.0 A 37.8 37.8 0 0 0 348.7 136.0" fill="none" stroke="#c62828" stroke-width="2.5"/>
+<text x="336.0" y="197.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#c62828">β</text>
+<text x="445.0" y="224.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">α + β = 180°</text>
+<line x1="504.4" y1="298.0" x2="519.4" y2="298.0" stroke="#1d2433" stroke-width="2.5"/>
+<polygon points="531.4,298.0 519.4,303.4 519.4,292.6" fill="#1d2433"/>
+<line x1="504.4" y1="136.0" x2="519.4" y2="136.0" stroke="#1d2433" stroke-width="2.5"/>
+<polygon points="531.4,136.0 519.4,141.4 519.4,130.6" fill="#1d2433"/>
+</svg>

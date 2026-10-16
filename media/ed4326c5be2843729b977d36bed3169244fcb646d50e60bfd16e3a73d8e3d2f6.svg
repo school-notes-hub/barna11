@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700"><title>Húrnégyszög a 2 cm sugarú körben</title><rect width="700" height="700" fill="#ffffff"/>
+<path d="M 547.9 516.1 A 258.3 258.3 0 0 0 394.9 95.6 Z" fill="#e65100" fill-opacity="0.25" stroke="none"/>
+<circle cx="350.0" cy="350.0" r="258.3" fill="none" stroke="#1d2433" stroke-width="3"/>
+<polygon points="126.3,479.2 547.9,516.1 394.9,95.6 126.3,220.8" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="350.0" y1="350.0" x2="126.3" y2="479.2" stroke="#90a4ae" stroke-width="2" stroke-linecap="round"/>
+<line x1="350.0" y1="350.0" x2="547.9" y2="516.1" stroke="#90a4ae" stroke-width="2" stroke-linecap="round"/>
+<line x1="350.0" y1="350.0" x2="394.9" y2="95.6" stroke="#90a4ae" stroke-width="2" stroke-linecap="round"/>
+<line x1="350.0" y1="350.0" x2="126.3" y2="220.8" stroke="#90a4ae" stroke-width="2" stroke-linecap="round"/>
+<line x1="126.3" y1="479.2" x2="394.9" y2="95.6" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="9 6"/>
+<circle cx="350.0" cy="350.0" r="5" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<text x="98.3" y="503.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#1d2433">A</text>
+<text x="572.6" y="544.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#1d2433">B</text>
+<text x="400.5" y="71.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#1d2433">C</text>
+<text x="98.3" y="212.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#1d2433">D</text>
+<text x="364.0" y="374.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#1d2433">K</text>
+<text x="343.0" y="437.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">110°</text>
+<path d="M 310.8 372.6 A 45.2 45.2 0 0 0 384.6 379.1" fill="none" stroke="#1d2433" stroke-width="1.8"/>
+<text x="425.3" y="330.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">120°</text>
+<path d="M 384.6 379.1 A 45.2 45.2 0 0 0 357.9 305.5" fill="none" stroke="#1d2433" stroke-width="1.8"/>
+<text x="316.2" y="285.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">70°</text>
+<path d="M 357.9 305.5 A 45.2 45.2 0 0 0 310.8 327.4" fill="none" stroke="#1d2433" stroke-width="1.8"/>
+<text x="269.9" y="357.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">60°</text>
+<path d="M 310.8 327.4 A 45.2 45.2 0 0 0 310.8 372.6" fill="none" stroke="#1d2433" stroke-width="1.8"/>
+<path d="M 162.3 482.3 A 36.2 36.2 0 0 0 157.6 461.1" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="195.6" y="471.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">35°</text>
+<path d="M 520.2 492.8 A 36.2 36.2 0 0 0 511.9 512.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="482.3" y="496.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">35°</text>
+<path d="M 535.5 482.1 A 36.2 36.2 0 0 0 520.2 492.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="507.1" y="465.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">30°</text>
+<path d="M 388.6 131.2 A 36.2 36.2 0 0 0 407.2 129.6" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="401.1" y="174.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">30°</text>
+<path d="M 362.1 110.9 A 36.2 36.2 0 0 0 388.6 131.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="351.6" y="159.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">55°</text>
+<path d="M 157.6 238.9 A 36.2 36.2 0 0 0 159.1 205.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="197.3" y="231.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">55°</text>
+<path d="M 126.3 257.0 A 36.2 36.2 0 0 0 157.6 238.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="161.8" y="290.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">60°</text>
+<path d="M 157.6 461.1 A 36.2 36.2 0 0 0 126.3 443.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="161.8" y="425.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">60°</text>
+<text x="215.3" y="306.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#1d2433">2 cm</text>
+</svg>

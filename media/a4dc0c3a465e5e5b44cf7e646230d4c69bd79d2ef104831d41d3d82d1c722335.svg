@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380"><title>A paralelogramma területe</title><rect width="900" height="380" fill="#ffffff"/>
+<polygon points="50.0,296.6 310.5,296.6 472.0,113.4 211.5,113.4" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="310.5" y1="296.6" x2="211.5" y2="113.4" stroke="#90a4ae" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="9 6"/>
+<line x1="211.5" y1="113.4" x2="211.5" y2="296.6" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 235.5 296.6 A 24.0 24.0 0 0 0 211.5 272.6" fill="none" stroke="#1565c0" stroke-width="2.5"/>
+<circle cx="220.0" cy="288.1" r="3.2" fill="#1565c0"/>
+<path d="M 82.6 296.6 A 32.6 32.6 0 0 0 71.5 272.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="94.5" y="287.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#1d2433">γ</text>
+<text x="180.2" y="333.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#1d2433">8 cm</text>
+<text x="116.1" y="202.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#1d2433">7,5 cm</text>
+<text x="219.5" y="215.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="start" fill="#1565c0" font-style="italic">m</text>
+<text x="10.0" y="40.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#1d2433">a)</text>
+<polygon points="562.0,249.6 777.5,249.6 860.0,180.4 644.5,180.4" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 609.4 249.6 A 47.4 47.4 0 0 0 598.3 219.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="622.0" y="244.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="start" fill="#1d2433">40°</text>
+<text x="669.7" y="286.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#1d2433" font-style="italic">a</text>
+<text x="586.6" y="205.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#1d2433">b</text>
+<text x="532.0" y="40.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#1d2433">b)</text>
+</svg>

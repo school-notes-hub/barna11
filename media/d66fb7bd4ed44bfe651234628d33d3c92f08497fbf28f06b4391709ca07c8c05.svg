@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440"><title>A trapéz átlói és szára</title><rect width="760" height="440" fill="#ffffff"/>
+<polygon points="160.4,340.0 599.6,340.0 561.9,60.0 246.0,60.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="246.0" y1="60.0" x2="599.6" y2="340.0" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="160.4" y1="340.0" x2="561.9" y2="60.0" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="561.9" y1="60.0" x2="476.3" y2="340.0" stroke="#90a4ae" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 191.2 340.0 A 30.8 30.8 0 0 0 169.4 310.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="203.8" y="316.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">73°</text>
+<path d="M 237.0 89.5 A 30.8 30.8 0 0 0 276.8 60.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="280.4" y="114.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">107°</text>
+<text x="318.4" y="374.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">41</text>
+<text x="538.0" y="374.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">16</text>
+<text x="380.0" y="400.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">57 cm</text>
+<text x="404.0" y="46.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">41 cm</text>
+<text x="181.1" y="202.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#1d2433">38 cm</text>
+<text x="599.8" y="206.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">a</text>
+<text x="438.8" y="195.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1565c0">e</text>
+<text x="345.2" y="195.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#c62828">f</text>
+</svg>

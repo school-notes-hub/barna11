@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430"><title>Két szög és egy oldal</title><rect width="860" height="430" fill="#ffffff"/>
+<polygon points="55.0,332.9 375.0,332.9 138.2,127.1" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 89.7 332.9 A 34.7 34.7 0 0 0 68.0 300.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="105.8" y="308.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">68°</text>
+<path d="M 348.8 310.2 A 34.7 34.7 0 0 0 340.3 332.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="317.6" y="321.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">41°</text>
+<path d="M 128.2 151.8 A 26.7 26.7 0 0 0 158.3 144.6" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="150.0" y="186.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">71°</text>
+<text x="215.0" y="370.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">12</text>
+<text x="76.8" y="231.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">a</text>
+<text x="270.6" y="223.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">b</text>
+<text x="12.0" y="39.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="start" fill="#1d2433">a)</text>
+<polygon points="485.0,294.9 805.0,294.9 670.5,165.1" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 526.6 294.9 A 41.6 41.6 0 0 0 519.1 271.1" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="558.2" y="281.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">35°</text>
+<path d="M 775.1 266.0 A 41.6 41.6 0 0 0 763.4 294.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="733.8" y="276.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">44°</text>
+<path d="M 652.1 177.9 A 22.4 22.4 0 0 0 686.6 180.6" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="666.7" y="222.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">101°</text>
+<text x="645.0" y="332.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">c = 10 cm</text>
+<text x="564.9" y="221.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">b</text>
+<text x="753.3" y="223.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#1d2433">a</text>
+<text x="442.0" y="39.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="start" fill="#1d2433">c)</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="640" viewBox="0 0 720 640"><title>Ötszög három derékszögű háromszögből</title><rect width="720" height="640" fill="#ffffff"/>
+<line x1="70.0" y1="192.7" x2="221.7" y2="122.0" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="70.0" y1="192.7" x2="221.7" y2="518.0" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="221.7" y1="518.0" x2="419.7" y2="518.0" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="419.7" y1="518.0" x2="650.0" y2="402.9" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="650.0" y1="402.9" x2="221.7" y2="122.0" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="221.7" y1="122.0" x2="221.7" y2="518.0" stroke="#1565c0" stroke-width="3" stroke-linecap="round"/>
+<line x1="221.7" y1="122.0" x2="419.7" y2="518.0" stroke="#1565c0" stroke-width="3" stroke-linecap="round"/>
+<path d="M 80.1 214.5 A 24.0 24.0 0 0 0 91.8 182.6" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="81.3" cy="196.8" r="3.2" fill="#1d2433"/>
+<path d="M 245.7 518.0 A 24.0 24.0 0 0 0 221.7 494.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="230.2" cy="509.5" r="3.2" fill="#1d2433"/>
+<path d="M 441.2 507.3 A 24.0 24.0 0 0 0 409.0 496.6" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="423.5" cy="506.6" r="3.2" fill="#1d2433"/>
+<text x="136.6" y="146.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">a</text>
+<text x="125.9" y="373.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">b</text>
+<text x="194.0" y="348.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1565c0">c</text>
+<text x="320.7" y="549.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">d</text>
+<text x="337.4" y="296.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1565c0">e</text>
+<text x="447.9" y="253.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">f</text>
+<text x="544.7" y="489.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#1d2433">g</text>
+<path d="M 154.4 153.4 A 74.3 74.3 0 0 0 221.7 196.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="165.8" y="218.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">α</text>
+<path d="M 221.7 458.6 A 59.4 59.4 0 0 0 196.6 464.2" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="202.4" y="439.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">β</text>
+<path d="M 221.7 245.7 A 123.8 123.8 0 0 0 277.1 232.7" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="257.0" y="279.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">γ</text>
+<path d="M 397.6 473.8 A 49.5 49.5 0 0 0 370.2 518.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="352.4" y="484.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">δ</text>
+<path d="M 254.9 188.4 A 74.3 74.3 0 0 0 283.8 162.7" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="290.8" y="208.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">ε</text>
+<path d="M 600.3 370.3 A 59.4 59.4 0 0 0 596.9 429.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="559.1" y="406.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1d2433">φ</text>
+</svg>

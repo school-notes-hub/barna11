@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400"><title>Tompaszögű háromszög a szinusztételhez</title><rect width="640" height="400" fill="#ffffff"/>
+<polygon points="60.0,288.0 580.0,288.0 227.1,112.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M 203.2 137.1 A 34.7 34.7 0 0 0 258.1 127.5" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="238.5" y="184.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">107°</text>
+<path d="M 129.3 288.0 A 69.3 69.3 0 0 0 107.7 237.7" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="155.6" y="254.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">α</text>
+<path d="M 505.5 250.9 A 83.2 83.2 0 0 0 496.8 288.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="465.3" y="268.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">β</text>
+<text x="118.4" y="183.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">3,5 cm</text>
+<text x="320.0" y="323.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">7,5 cm</text>
+<text x="415.9" y="182.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">c</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="760" viewBox="0 0 640 760"><title>A szabályos 17-szög középponti háromszöge</title><rect width="640" height="760" fill="#ffffff"/>
+<polygon points="260.9,513.0 379.1,513.0 320.0,197.0" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linejoin="round"/>
+<line x1="320.0" y1="197.0" x2="320.0" y2="513.0" stroke="#90a4ae" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 329.5 513.0 A 9.5 9.5 0 0 0 320.0 503.6" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="323.3" cy="509.7" r="3.2" fill="#1d2433"/>
+<path d="M 309.1 255.1 A 59.1 59.1 0 0 0 330.9 255.1" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="336.0" y="234.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2433">21,18°</text>
+<path d="M 284.5 513.0 A 23.6 23.6 0 0 0 265.3 489.8" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<path d="M 374.7 489.8 A 23.6 23.6 0 0 0 355.5 513.0" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<text x="246.9" y="510.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#1d2433">79,41°</text>
+<text x="393.1" y="510.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2433">79,41°</text>
+<text x="349.5" y="546.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">0,5</text>
+<text x="320.0" y="576.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#1d2433">1 m</text>
+<text x="367.5" y="362.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2433">r ≈ 2,72</text>
+</svg>

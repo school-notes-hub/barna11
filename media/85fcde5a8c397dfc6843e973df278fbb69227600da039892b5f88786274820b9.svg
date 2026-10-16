@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="640" viewBox="0 0 820 640"><title>Milyen magas a dóm</title><rect width="820" height="640" fill="#ffffff"/>
+<line x1="186.6" y1="474.3" x2="763.4" y2="474.3" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<polygon points="232.2,474.3 232.2,326.8 275.1,286.5 291.2,286.5 291.2,254.3 323.4,254.3 323.4,286.5 339.5,286.5 382.4,326.8 382.4,474.3" fill="#f5f5f5" stroke="#1d2433" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="291.2,254.3 307.3,165.7 323.4,254.3" fill="#f5f5f5" stroke="#1d2433" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="307.3" y1="474.3" x2="307.3" y2="165.7" stroke="#90a4ae" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="6 6"/>
+<line x1="709.8" y1="474.3" x2="709.8" y2="470.0" stroke="#1d2433" stroke-width="3" stroke-linecap="round"/>
+<circle cx="709.8" cy="468.9" r="6" fill="#1d2433" stroke="#1d2433" stroke-width="2"/>
+<line x1="709.8" y1="468.9" x2="307.3" y2="468.9" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="10 7"/>
+<line x1="709.8" y1="468.9" x2="307.3" y2="165.7" stroke="#c62828" stroke-width="3" stroke-linecap="round"/>
+<path d="M 331.3 468.9 A 24.0 24.0 0 0 0 307.3 444.9" fill="none" stroke="#1d2433" stroke-width="2.5"/>
+<circle cx="315.8" cy="460.5" r="3.2" fill="#1d2433"/>
+<path d="M 653.9 426.8 A 70.0 70.0 0 0 0 639.8 468.9" fill="none" stroke="#c62828" stroke-width="2.5"/>
+<text x="610.2" y="445.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#c62828">37°</text>
+<text x="508.5" y="504.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#1565c0">150 m</text>
+<text x="319.3" y="326.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="start" fill="#1d2433" font-style="italic">x</text>
+<text x="725.8" y="481.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="start" fill="#1d2433">2 m</text>
+<line x1="205.4" y1="474.3" x2="205.4" y2="165.7" stroke="#1d2433" stroke-width="2" stroke-linecap="round"/>
+<text x="195.4" y="329.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="end" fill="#1d2433">h = 2 + x</text>
+</svg>

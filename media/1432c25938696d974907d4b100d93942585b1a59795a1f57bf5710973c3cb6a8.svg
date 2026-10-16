@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="600" viewBox="0 0 640 600"><title>Három halmaz Venn-diagramja 30 elemmel</title><rect width="640" height="600" fill="#ffffff"/>
+<polygon points="60.0,558.2 580.0,558.2 580.0,61.8 60.0,61.8" fill="none" stroke="#1d2433" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="243.2" cy="253.9" r="130.0" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="396.8" cy="253.9" r="130.0" fill="none" stroke="#1d2433" stroke-width="3"/>
+<circle cx="320.0" cy="386.8" r="130.0" fill="none" stroke="#1d2433" stroke-width="3"/>
+<text x="195.9" y="217.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">5</text>
+<text x="320.0" y="194.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">3</text>
+<text x="444.1" y="217.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">6</text>
+<text x="320.0" y="292.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">4</text>
+<text x="246.7" y="355.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">2</text>
+<text x="393.3" y="355.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">6</text>
+<text x="320.0" y="454.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">2</text>
+<text x="526.8" y="513.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#1d2433">2</text>
+<text x="136.9" y="148.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">K</text>
+<text x="503.1" y="148.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">F</text>
+<text x="432.3" y="506.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2433">R</text>
+<text x="20.0" y="37.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2433">Alaphalmaz: 30 elem;  |K| = 14,  |F| = 19,  |R| = 14</text>
+</svg>
